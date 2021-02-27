@@ -1,0 +1,1096 @@
+{
+  "Jobs":  [
+      {
+        "Company Name": "10up",
+        "Company Technologies": "WordPress PHP  Sass Git Vagrant Nginx Memcache",
+        "Website": "10up.com",
+        "Careers Link": "https://10up.com/careers/",
+        "Description": "We make websites and content management simple and fun with premiere web design & development consulting services, by contributing to open platforms like WordPress, and by providing tools and products (like PushUp  ) that make web publishing a cinch. At 10up, we don’t just “make” things – we engineer them. We’re a group of people built to solve problems; made to create; wired to delight. From beautiful pixels to beautiful code, we constantly improve the things around us, applying our passions to our clients’ projects and goals. We’ve had the privilege of working on big web projects for clients as diverse as TechCrunch, ESPN’s FiveThirtyEight and Grantland, SurveyMonkey, Junior Diabetes Research Foundation (JDRF), and Google."
+      },
+      {
+        "Company Name": "17hats",
+        "Company Technologies": "iOS, React, Knockout, Rails, Perl, HTML, Sql, Ruby, JQuery",
+        "Website": "17hats.com",
+        "Careers Link": "Email buford@17hats.com with github and/or CV",
+        "Description": "Are you ready to stop juggling multiple apps to manage your business? From booking clients, to managing projects, to controlling your finances, with 17hats you have everything you need to manage your business and clients anytime, anywhere. Pretty neat if we say so ourselves! We created 17hats specifically for “businesses of one” with a focus on simplicity and ease of use."
+      },
+      {
+        "Company Name": "1Password",
+        "Company Technologies": "Go, Rust, React, TypeScript, Swift, Kubernetes, and many others depending on the team.",
+        "Website": "1password.com",
+        "Careers Link": "https://1password.com/jobs/",
+        "Description": "1Password is a password manager that keeps you safe online. It stores all your personal information — passwords, credit cards, and more. We&aposre always looking for new people as our team grows, and it&aposs growing fast!"
+      },
+      {
+        "Company Name": "Abstract API",
+        "Company Technologies": "Python, Django, Postres, Redis, AWS lambda",
+        "Website": "abstractapi.com",
+        "Careers Link": "Email contact@abstractapi.com with subject \"Application (remoteintech)\" or contact the team through their live chat on Abstract API website",
+        "Description": "Abstract provides a suite of fast and robust APIs for developers with extensive free plan for solo hackers. From holiday data to screenshot APIs, Abstract helps developers from freelancers to dev teams in companies like Google and Shopify, automate their workflow or build delightful experiences."
+      },
+      {
+        "Company Name": "acct",
+        "Company Technologies": "E-commerce Business Implementation, Digital Marketing Planning, E-commerce CRO, Data Driven UX, Web Performance Optimization, SEO, Front-end and Back-end Development for E-commerce Business, Systems Integrations, E-commerce Support, Digital Transformation, Product Development and Web Design",
+        "Website": "acct.global",
+        "Careers Link": "https://acct.gupy.io/",
+        "Description": "We are ACCT (ACupula Consulting & Technology), a software consultancy that creates and transforms technologies into value for high performance businesses. Today we operate in 15 countries creating technologies for the largest e-businesses in the country and the world."
+      },
+      {
+        "Company Name": "Acquia",
+        "Company Technologies": "Drupal PHP Git HTML CSS JavaScript Ruby Go Python AWS Ember React Java",
+        "Website": "acquia.com",
+        "Careers Link": "https://www.acquia.com/careers/open-positions",
+        "Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences. Global 2000 enterprises, government agencies and NGOs rely on Acquia’s open cloud platform to create new revenue streams, lower costs, and engage audiences more deeply through content, community, commerce and context."
+      },
+      {
+        "Company Name": "Aha!",
+        "Company Technologies": "Ruby on Rails, React, jQuery",
+        "Website": "aha.io",
+        "Careers Link": "http://www.aha.io/company/careers/current-openings",
+        "Description": "Home Aha! is the world&aposs #1 product roadmap software. Creating great software is invigorating. And product managers should be the happiest people on earth. But most companies never benefit from their product manager’s love of innovation because they are beaten down by soft strategies, weak tools, and squishy communication. We help make agile product managers great by enabling them to set winning product strategies and prioritize the key features that customers want.  Aha! is led by product development experts Brian de Haaff and Dr. Chris Waters and headquartered in Menlo Park, California. Visit www.aha.io   for more information and follow us @aha_io"
+      },
+      {
+        "Company Name": "ALICE",
+        "Company Technologies": "Java Groovy/Grails Spring MVC Hibernate Angular AWS Terraform MySQL ElasticSearch Redis",
+        "Website": "aliceplatform.com",
+        "Careers Link": "https://www.aliceplatform.com/careers",
+        "Description": "ALICE is a hotel operations platform that empowers operational excellence and meaningful guest experiences. By bringing all hotel departments together with a single operations platform for internal communication and task management, ALICE helps hotel staff act as a team to provide consistently excellent service. Since the company was founded in 2013, ALICE has gained significant traction in the industry, working with more than 2,500 hotels and tens of thousands of hotel staff across many of the world’s leading brands, including Marriott International, Hilton Hotels & Resorts, Hyatt Hotels Corporation, Viceroy Hotel Group, Firmdale Hotels, Dream Hotel Group, Fairmont Hotels & Resorts, and The Leading Hotels of the World. The company acquired concierge technology provider GoConcierge in 2017. ALICE is the Forbes Travel Guide Brand Official Staff Technology Platform, an Inc. Best Workplaces of 2019, and winner of Best Place to Work in Hotel Technology, Best Concierge Software, Best Engineering & Facilities Management, Best Guest App and Top Staff Task Management & Collaboration Platform at the 2019 HotelTechAwards."
+      },
+      {
+        "Company Name": "Alight Solutions",
+        "Company Technologies": "Python, Ruby, .NET, MSSQL",
+        "Website": "alight.com",
+        "Careers Link": "https://careers.alight.com/",
+        "Description": "Alight Solutions is a provider of benefits administration and cloud-based HR and financial solutions, we enhance work and life through our service, technology and data.  Alight Solutions is reimagining how people and organizations thrive so clients and their people are free to enjoy more in work and in life."
+      },
+      {
+        "Company Name": "Amazon",
+        "Company Technologies": "We do not require that you know any specific programming language before interviewing for a tech position. However, familiarity with a prominent language is generally a prerequisite for success. You should be familiar with the syntax of languages such as Java, Python, C#, C/C++, or Ruby. You should also know some of the languages’ nuances, such as how memory management works, or the most commonly used collections, libraries, etc. More info",
+        "Website": "amazon.jobs/en/locations/virtual-locations",
+        "Careers Link": "https://www.amazon.jobs/",
+        "Description": "When Amazon.com launched in 1995, it was with the mission “to be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online, and endeavors to offer its customers the lowest possible prices.” This goal continues today, but Amazon’s customers are worldwide now, and have grown to include millions of Consumers, Sellers, Content Creators, and Developers & Enterprises. Each of these groups has different needs, and we always work to meet those needs, innovating new solutions to make things easier, faster, better, and more cost-effective. Learn about working at Amazon"
+      },
+      {
+        "Company Name": "ARK",
+        "Company Technologies": "TypeScript Node Vue hapi React Jest Git TailwindCSS C++ Rust",
+        "Website": "ark.io/careers",
+        "Careers Link": "https://www.ark.io/careers",
+        "Description": "ARK is an open-source blockchain platform that empowers everyone, regardless of their aim or technical background, to quickly and easily leverage blockchain technology. ARK acts as a beacon for individuals, enterprises, and communities who wish to apply blockchain technology as a foundation for their own projects or businesses by offering technology stacks and tools, such as the ARK Deployer, unique in their simplicity, to easily create and deploy blockchains. For more information, please visit https://ark.io/"
+      },
+      {
+        "Company Name": "Arkency",
+        "Company Technologies": "Ruby on Rails, React.js, Redux",
+        "Website": "arkency.com",
+        "Careers Link": "https://blog.arkency.com/join-our-team/",
+        "Description": "Arkency is a consulting agency."
+      },
+      {
+        "Company Name": "Articulate",
+        "Company Technologies": ".NET, C#",
+        "Website": "articulate.com",
+        "Careers Link": "https://en-uk.articulate.com/company/careers.php",
+        "Description": "E-Learning Heroes. All the help you need — a click away. We get it. It takes more than great software to create engaging courses. That’s why we built E-Learning Heroes, the world’s #1 e-learning community. It puts practical tips, inspirational examples, free downloads, and expert advice right at your fingertips. Create compelling e-learning courses with stunningly simple, remarkably powerful software from Articulate."
+      },
+      {
+        "Company Name": "Audiense",
+        "Company Technologies": "Data Mining Segmentation Python Machine Learning Tableau",
+        "Website": "audiense.com",
+        "Careers Link": "https://aboutus.audiense.com/careers",
+        "Description": "Audiense enables innovative organizations to understand and apply the power of audience segmentation and insights by reinventing the use of compliant social data to make it more strategic and connect it with the business/marketing strategy to be relevant and deliver results. Audiense is used to find and understand large or very specific audiences perfectly matched to your product or brand and discover what an audience talk about, their affinities, as well as how they think, behave and define themselves."
+      },
+      {
+        "Company Name": "Aula Education",
+        "Company Technologies": "React (and React Native) Microservices backends with Node.js and AWS Serverless with AWS Lambda Docker ES6/7 Javascript Redux Mongo, Redis and others dbs",
+        "Website": "aula.education",
+        "Careers Link": "https://aula.education/careers.html",
+        "Description": "Aula is a remote-first 50-person team from 20 nationalities building a communication platform for education. Think ‘Slack for education’. Powered by an ecosystem of integrations, Aula is the foundational layer in the university tech stack that shapes a whole industry. We built Aula because we believe digital infrastructure should encourage community and participation-based learning. We’re backed by people like the founder of Unity, CTO at Eventbrite, a co-founder of Zendesk, a co-founder of JustEat and world-class VCs like Project A, BrightEye and Sunstone."
+      },
+      {
+        "Company Name": "Auth0",
+        "Company Technologies": "Current stack is node.js, mongodb, ElasticSearch, CoreOS, Docker, Puppet and the service runs in AWS, Azure and Google Cloud in multiple regions. Also be familiar with: JavaScript Python Ruby Puppet, Chef, Ansible Docker PostgreSQL Node.js JSON Web Tokens OAuth, OpenID Connect",
+        "Website": "auth0.com",
+        "Careers Link": "https://auth0.com/jobs",
+        "Description": "About Us We&aposre a team of developers that got tired of the friction caused by complex identity environments. So we built a zero-friction, infinitely extensible, enterprise-class web-scale cloud solution that makes identity easy. Our Mission Zero-friction authentication and authorization for developers."
+      },
+      {
+        "Company Name": "Automattic",
+        "Company Technologies": "WordPress, JavaScript (Node/React/Redux), PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python",
+        "Website": "automattic.com",
+        "Careers Link": "https://automattic.com/work-with-us/",
+        "Description": "We are a distributed company, democratizing publishing and development. We are the people behind WordPress.com, WooCommerce, Jetpack, Simplenote, Longreads, VaultPress, Akismet, Gravatar, Crowdsignal, Cloudup, Tumblr, and more. We believe in making the web a better place."
+      },
+      {
+        "Company Name": "Axelerant",
+        "Company Technologies": "Drupal WordPress PHP Git HTML CSS JavaScript Ruby",
+        "Website": "axelerant.com",
+        "Careers Link": "https://www.axelerant.com/careers",
+        "Description": "Axelerant is a full-service software development company that focuses on open-source technologies. Top technical talent who are passionate, giving, and communicative demonstrates our backbone. We provide high-end Strategy, Implementation, and Support services for our clients and agencies with whom we partner."
+      },
+      {
+        "Company Name": "Bairesdev",
+        "Company Technologies": "Java PHP .NET SQL Server Python Android Angular iOs Ruby Linux Node JS React MySQL mongoDB C++ SAP AWS Joomla Oracle",
+        "Website": "bairesdev.com",
+        "Careers Link": "https://www.bairesdev.com/careers/",
+        "Description": "BairesDev provides all the roles needed to complete the team you require. This team is typically composed by a PM, SW engineers, QA engineers and other roles that are defined for each specific project. Management is conducted jointly by BairesDev Scrum Master / Project Manager and Client’s Product Owner. The Dedicated Team works autonomously, but communicates and reports status as often as requested by you. Using the Agile Methodology, it relies heavily on feedback and discoveries made during testing to shape its design and functions. Our expert Dedicated Teams work swiftly in sprints to efficiently attack the backlog while maintaining the flexibility to re-prioritize and adjust to deliver the best possible product. Applying the highest skilled engineering talent through the dedicated team approach, BairesDev’s Dedicated Teams can start delivering technology solutions and value immediately since teams are quickly spun up by us to implement and execute agreed plans."
+      },
+      {
+        "Company Name": "Balena",
+        "Company Technologies": "In no particular order: balenaCloud, balenaFin, balenaOS, balenaEtcher, openBalena IoT devices Docker Kubernetes Linux JavaScript TypeScript Node.js PostgreSQL React Electron AWS Yocto Rust Prometheus Jenkins Raspberry Pi Go",
+        "Website": "balena.io",
+        "Careers Link": "https://balena.workable.com/",
+        "Description": "Balena’s mission is to unlock the potential of physical computing by removing friction for IoT device fleet owners. We believe that edge computing is the next major computing paradigm, and every new computing paradigm needs a scalable development platform to match. We’re building that platform by focusing on removing any barrier preventing mainstream developers from being successful. The balena   platform simplifies device fleet management, so developers can focus on their product, not their infrastructure. We provide tools that make it easy for any developer to build applications for IoT and the Edge, this means we work on the entire stack, including the hardware!"
+      },
+      {
+        "Company Name": "Bandzoogle",
+        "Company Technologies": "RoR, Ember.js, APIs",
+        "Website": "bandzoogle.com",
+        "Careers Link": "https://bandzoogle.com/jobs",
+        "Description": "The website builder created by musicians for musicians. From the beginning, we&aposve had a simple goal: to empower musicians to build effective websites for their music."
+      },
+      {
+        "Company Name": "Baremetrics",
+        "Company Technologies": "PHP, jQuery",
+        "Website": "baremetrics.com",
+        "Careers Link": "https://baremetrics.com/jobs",
+        "Description": "Who we are, what we’re about & what we do, yo. Baremetrics is pretty much the bee’s knees. We&aposre the best Stripe analytics tool out there. Period. We are a small, tightknit team. We are proud of every piece of work that rolls out. We know what we want to build, where it should go and how we’ll get there. We go out, kill it and drag it home. Since launching, we’ve added some great customers, received some killer press and are hiring like crazy. We’re growing fast, and have been since day 1. So, if you’d like to chat about what it’s like here, who works here, why it matters and what our favorite snacks are...just reach out."
+      },
+      {
+        "Company Name": "Basecamp",
+        "Company Technologies": "Ruby, Rails, CoffeeScript, Backbone.js, Memcached, MySQL, S3",
+        "Website": "basecamp.com",
+        "Careers Link": "https://basecamp.com/about/jobs",
+        "Description": "Chaos, organized. Basecamp keeps people on the same page. No matter what your role is, everyone works toward a common goal: finishing a project together."
+      },
+      {
+        "Company Name": "BeenVerified",
+        "Company Technologies": "Ruby, Ruby on Rails, Go, EmberJS, React, PHP, HTML, CSS, JavaScript",
+        "Website": "beenverified.com",
+        "Careers Link": "https://www.beenverified.com/careers/",
+        "Description": "BeenVerified’s mission is to help people discover, understand and use public data in their everyday lives. At BeenVerified, our overriding goal is a simple one: we want to provide you with access to public information that was formerly only available to big companies and people with deep pockets in a way that is easy, affordable, and fast. Founded in 2007, we&aposre a talented and passionate team and one of the fastest growing companies in New York City."
+      },
+      {
+        "Company Name": "Best Practical Solutions",
+        "Company Technologies": "Perl, Mason, MySQL/PostgreSQL/Oracle, Linux based OS, JavaScript/jQuery, CSS",
+        "Website": "bestpractical.com",
+        "Careers Link": "https://bestpractical.com/careers-1",
+        "Description": "Best Practical Solutions develops and maintains the open source ticketing software, Request Tracker (RT), and many of its extensions."
+      },
+      {
+        "Company Name": "BeyondPricing",
+        "Company Technologies": "We collect billions of data points to make decisions on prices in thousands of cities around the world.  We then integrate with dozens of external platforms to automatically sync prices daily. Our stack is: Python/Django Postgres Ember.js No specific language experience is required. If you have experience in similar fields we want to hear from you.",
+        "Website": "beyondpricing.com",
+        "Careers Link": "Send email to jobs@beyondpricing.com",
+        "Description": "Beyond Pricing is an automated dynamic pricing solution for Airbnb and other vacation rental sites.  We utilize real-time market data to ensure our price recommendations maximize revenue and occupancy for our hosts. Our SaaS solution allows you to link your Airbnb listing, preview our year of recommended rates, and sync those prices directly to your Airbnb calendar."
+      },
+      {
+        "Company Name": "Bitnami",
+        "Company Technologies": "We ship open source apps and frameworks (Wordpress, Joomla, Drupal, ...)  We develop our tools using ruby, golang and nodejs  We host our code in Git We have a heavy bias towards deploying our services on Kubernetes",
+        "Website": "bitnami.com",
+        "Careers Link": "https://bitnami.com/careers",
+        "Description": "Build the software packaging and delivery tools that impact millions of people.  We make server software easier to use, regardless of platform — in a VM, the cloud, or a container. Try one of the 140+ applications and development runtimes we package and learn what makes Bitnami awesome. We also produce an end-to-end automation platform used to create, secure, publish and update software stacks for all the major container and cloud platforms, from a single Docker image to a scalable Cloud Formation template. We are bootstrapped, profitable and growing. Bitnami was also part of Y Combinator&aposs Winter 2013 batch. You can find more about Bitnami in our About Us page  ."
+      },
+      {
+        "Company Name": "Bonsai",
+        "Company Technologies": "Rails, React, React Native, Electron, Postgres",
+        "Website": "hellobonsai.com",
+        "Careers Link": "Email contact@hellobonsai.com with \"Spontaneous application (Remote jobs)",
+        "Description": "Bonsai is an all-in-one tool for freelancers and agencies, helping them manage their solo and small business. Bonsai provides a desktop and mobile software to manage contracts, invoices, proposals and payments in a single dashboard."
+      },
+      {
+        "Company Name": "Buffer",
+        "Company Technologies": "Redshift, Hadoop, MongoDB JavaScript, PHP, Underscore, Backbone.",
+        "Website": "buffer.com",
+        "Careers Link": "https://buffer.com/journey",
+        "Description": "Buffer is the best way to drive traffic, increase fan engagement and save time on social media. We&aposre a fully distributed team, meaning that we&aposll be fixing bugs and replying to your questions from around the world! The Buffer team works from multiple countries and continents. Living in a place that makes you happy is one of our core beliefs, and has stayed with the company since the beginning."
+      },
+      {
+        "Company Name": "Canonical",
+        "Company Technologies": "Canonical use a variety of technologies across their range of products or services, the company are behind Ubuntu, the server, Desktop, and mobile operating system. Canonical has also created several important tools to help customers build, manage and scale their clouds. For telcos and enterprises, Landscape helps administrators deploy and manage Ubuntu clouds cost-effectively. And whether you are using your own cloud or someone else’s, Juju and MAAS drastically reduce the time, cost and complexity of deploying and scaling in any cloud environment.",
+        "Website": "canonical.com",
+        "Careers Link": "https://canonical.com/careers/all",
+        "Description": "At Canonical, we believe in the power of open source to change the world Canonical was created alongside Ubuntu to help it reach a wider market. Our services help governments and businesses the world over with migrations, management and support for their Ubuntu deployments. Together with our partners, we ensure that Ubuntu runs reliably on every platform from the PC and the smartphone to the server and, crucially, the cloud."
+      },
+      {
+        "Company Name": "CareMessage",
+        "Company Technologies": "Ruby, Rails, JavaScript, AngularJS, PostgreSQL, Redis",
+        "Website": "caremessage.org/careers",
+        "Careers Link": "",
+        "Description": "CareMessage uses technology to address challenges for society&aposs most vulnerable populations.Over 86% of low income individuals in the US have access to a basic cell phone with messaging capabilities, making it one of the great social equalizers of our time. CareMessage&aposs technology enables healthcare and social services agencies to better communicate and engage with their beneficiaries using mobile technology, improving overall health outcomes and dramatically reducing cost of care. We&aposre growing at a staggering rate and want to work with the absolute best. Come change the world and make a real impact on healthcare!"
+      },
+      {
+        "Company Name": "CartoDB",
+        "Company Technologies": "CartoDB has a lovely attributions page   with a lot of information. Frontend Backend Other features Leaflet Ubuntu Chef Wax PostGIS Munin jQuery & plugins Nginx Nagios Backbone Node Monit Underscore Varnish CodeMirror Unicorn Mustache Ruby on Rails     Redis     Mapnik     CartoCSS",
+        "Website": "cartodb.com",
+        "Careers Link": "https://carto.com/careers/#open-positions",
+        "Description": "It&aposs a location intelligence tool to create amazing visualizations of geospatial data in the cloud. Upload your data, create your visualizations without a line of code and share them with the world."
+      },
+      {
+        "Company Name": "CircleCI",
+        "Company Technologies": "Clojure Go Python",
+        "Website": "circleci.com",
+        "Careers Link": "https://boards.greenhouse.io/circleci",
+        "Description": "Started in 2011 with 2 employees, we have grown to over 130 employees all over the world. Those team members work together every day to empower developers and build the best CI/CD solution on the market. Over 300,000 developers trust CircleCI to build, test, and deploy software to millions of users around the world."
+      },
+      {
+        "Company Name": "CivicActions",
+        "Company Technologies": "We choose tools that promote openness and help people work better together. Some favorites are: React Javascript CSS Pa11y DKAN Drupal Ilias Moodle MatterMost Symfony Docker Kubernetes Helm Ansible MariaDB Solr Jenkins GitLab OpenSCAP Gemini",
+        "Website": "civicactions.com",
+        "Careers Link": "https://civicactions.com/careers/",
+        "Description": "We help government agencies and nonprofit organizations improve lives through modern software and thoughtful experiences. Our agile practices, human-centered approach, and culture of collaboration help us transform the way digital services are created and delivered."
+      },
+      {
+        "Company Name": "Clevertech",
+        "Company Technologies": "JS, node, Python, RoR, PHP, Java,",
+        "Website": "clevertech.biz",
+        "Careers Link": "https://clevertech.biz/careers",
+        "Description": "Clevertech have been developing apps since 2000. Clevertech is a team of business analysts, developers and designers. We tackle complex business issues and engineer simplicity. We work with visionary leaders who want full service partners for successful product launches."
+      },
+      {
+        "Company Name": "Close",
+        "Company Technologies": "Python / Flask, JavaScript / React, HTML5 / CSS, MongoDB, Elasticsearch, Postgres, AWS, Terraform, Docker, Kubernetes",
+        "Website": "close.com",
+        "Careers Link": "https://jobs.lever.co/close.io/",
+        "Description": "Sales/CRM tool with great calling and email integration"
+      },
+      {
+        "Company Name": "Codea IT",
+        "Company Technologies": "AngularJS, Node.js, Android (Java), iOS (Objective-c, Swift), HTML5, CSS, JavaScript, PHP, Ruby, React, Wordpress, C#, Sails.js, Python, .NET, MongoDB, Postgres, SQL",
+        "Website": "codeait.com",
+        "Careers Link": "https://careers.codeait.com/",
+        "Description": "We are a company that provides a full range of services and products within the IT industry. We focus on custom development: corporate solutions, mobile, web and desktop applications. In our wide range of services we maintain high quality standards, adding real value and derencial in our daily work. Our focus is on strategically assist our clients in achieving their business goals through the right combination of knowledge and ability."
+      },
+      {
+        "Company Name": "Codeship",
+        "Company Technologies": "JavaScript Java Node.js Rails HTML CSS React NoSQL MySQL AWS Kafka MongoDB RocksDB Swift Objective-c Linux Docker Kubernates",
+        "Website": "codeship.com",
+        "Careers Link": "https://www.cloudbees.com/careers/job",
+        "Description": "Easily set-up your builds, with no infrastructure to manage. No Ops. No Admins. Increase your throughput. CloudBees CodeShip is fast, so you never have to wait. Configure your build anyway you want and deploy anywhere. Codeship&aposs continuous integration platform operates B2D portal that delivers hosted continuous integration and deployment for web applications. It shortens the development cycles thus reducing the risk of bugs and increasing innovation. It helps software companies to develop a better product faster by taking care of the testing and release process. Codeship automates software deployment and all the necessary tasks involved with it."
+      },
+      {
+        "Company Name": "Collabora",
+        "Company Technologies": "Any software engineering or development expertise welcome, as long as you have a passion for technology and Open Source!",
+        "Website": "collabora.com",
+        "Careers Link": "https://www.collabora.com/careers.html",
+        "Description": "Collabora is a global consultancy consisting of nearly one hundred engineers and developers who leverage Open Source technology to help clients in any number of ways.   Whether it be through actual code or even strategic software development planning, they&aposre goal is to help create quality solutions that help power leading products across many different industries used in millions of devices all over the world."
+      },
+      {
+        "Company Name": "Compucorp",
+        "Company Technologies": "Backend: PHP, Python, Drupal, CiviCRM, Odoo, Symfony Frontend: AngularJS, React, Less, Sass Infrastructure: AWS, Ansible, Packer, Jenkins Github and Bitbucket for hosting our projects",
+        "Website": "compucorp.co.uk",
+        "Careers Link": "https://www.compucorp.co.uk/jobs",
+        "Description": "Our mission is nothing less than to enable digital transformation in organisations that deliver social good.  We do things a little differently, basing all our solutions on open source products, meaning our work has the maximum impact possible. Our work covers web design, app development and branding for Charities, Art Galleries and NGOs around the world.  Whether you&aposre a creative, an organiser or an engineer, become part of our growing team delivering transformational change for organisations everywhere."
+      },
+      {
+        "Company Name": "ConsenSys",
+        "Company Technologies": "Ethereum, Solidity, and a variety of other technologies depending on the project (IPFS, Scala, Java, Go, Python, React, Elasticsearch, Rust...) For remote communication, Slack, Zoom, and Quip.",
+        "Website": "consensys.net",
+        "Careers Link": "https://consensys.net/open-roles/",
+        "Description": "ConsenSys is a venture production studio building decentralized applications and various developer and end-user tools for blockchain ecosystems, primarily focused on Ethereum. The ConsenSys “hub” coordinates, incubates, accelerates and spawns “spoke” ventures through development, resource sharing, acquisitions, investments and the formation of joint ventures. These spokes benefit from foundational components built by ConsenSys that enable new services and business models to be built on the blockchain. In addition to the development of internal projects and consulting work, ConsenSys is interested in the identification, development and acquisition of talent and projects on an ongoing basis."
+      },
+      {
+        "Company Name": "Convert",
+        "Company Technologies": "AWS Docker DynamoDB JavaScript jQuery MongoDB PHP RactiveJS SimpleDB Vagrant Webpack",
+        "Website": "convert.com",
+        "Careers Link": "https://www.convert.com/jobs/",
+        "Description": "We make fast and reliable A/B testing software. This helps our customers improve their clients’ experience and improve their conversions. We’ve got an outstanding support team and we truly care about our product and its impact on this world. This is why we follow our Conscious Business ideology. Apart from coffee, we’re powered by a fiercely passionate team who believe in our move to Holacracy to grow our business. Don’t let being distributed over 12 countries fool you, we have a cohesive culture with strong voices. Our team has the DNA of entrepreneurs. Our members are empowered to make decisions (and mistakes) to drive Convert forward. If you’re a passionate overachiever we want to hear from you. We believe that getting it done is more important that getting it perfect (the first time) You get to work with others who set the bar high and share their successes and failures. Get the opportunity to learn from people who know what they are doing."
+      },
+      {
+        "Company Name": "Cueup",
+        "Company Technologies": "Node.js React GQL MySQL Redis Mongo Git",
+        "Website": "cueup.io",
+        "Careers Link": "If you want to work on the insides of the platform - just reach out on chris@cueup.io :)",
+        "Description": "Cueup was founded in 2016 in Copenhagen, Denmark. Since then the company has grown to parts of Asia and America and continues to expand the community to new countries every day. We strive to help DJs get ahead in the world and connect them across borders - all meanwhile making it easier for event organizers to find a DJ than ever before."
+      },
+      {
+        "Company Name": "Customer.io",
+        "Company Technologies": "Ember.js golang Javascript Rails Git CSS HTML",
+        "Website": "customer.io",
+        "Careers Link": "https://customer.io/careers/",
+        "Description": "At Customer.io, the mission is helping businesses talk like people. Today, we do this with an app that allows businesses with many users to send targeted, more relevant communication at scale."
+      },
+      {
+        "Company Name": "DataStax",
+        "Company Technologies": "DBs: NoSQL databases (Apache Cassandra), distributed, peer-to-peer, always-available, resilient systems DB Drivers: Java, Python, NodeJS, C#, C++ Development: Git, GitHub, Jenkins, Grafana Web dev: ReactJS, Apollo, GraphQL, Express.js Cloud Infrastructure: Golang, Docker, Kubernetes, Envoy, Terraform, Prometheus Cloud: Cloud service providers APIs, cloud native applications (AWS, GCP, Azure)",
+        "Website": "datastax.com",
+        "Careers Link": "https://www.datastax.com/company/careers",
+        "Description": "DataStax helps companies compete in a rapidly changing world where expectations are high and new innovations happen daily.  DataStax is an experienced partner in on-premises, hybrid, and multi-cloud deployments and offers a suite of distributed  data management products and cloud services. We make it easy for enterprises to deliver killer apps that crush the  competition. More than 400 of the world’s leading enterprises including Capital One, Cisco, Comcast, Delta Airlines, eBay, Macy’s,  McDonald’s, Safeway, Sony, and Walmart use DataStax to build modern applications that can be deployed across any cloud.  For more information, visit DataStax.com   and follow us on Twitter @DataStax  ."
+      },
+      {
+        "Company Name": "Delighted",
+        "Company Technologies": "NPS, CSAT, CES, 5-star, Smileys, Thumbs, Email, Web, SMS, Link, iOS SDK",
+        "Website": "delighted.com",
+        "Careers Link": "https://delighted.com/jobs",
+        "Description": "Delighted is a company which provides software that can gather actionable feedback from your customers. Customers take a single question survey. They rate your product/service and provide feedback in their own words. Feedback appears instantly in your dashboard."
+      },
+      {
+        "Company Name": "DigitalOcean",
+        "Company Technologies": "Go, K8s, Docker, Mesos, Terraform, Vault, Consul, Grafana, Perl, Ruby, Kafka, Consul, Prometheus, MemSQL, MySQL, Looker, Rsyslog, Open vSwitch, KVM, Git",
+        "Website": "digitalocean.com",
+        "Careers Link": "https://www.digitalocean.com/careers/",
+        "Description": "We&aposre a fast-growing, New York-based cloud infrastructure provider, and our talented team is at the center of everything we do."
+      },
+      {
+        "Company Name": "Discourse",
+        "Company Technologies": "Discourse is a JavaScript application that runs in your web browser, using the Ember.js framework. The server side of Discourse is Ruby on Rails backed by a Postgres database and Redis cache. You can deploy our standard Discourse Docker container on any virtualized cloud server (digital ocean, amazon ec2, rackspace, azure) with 1 GB RAM.",
+        "Website": "discourse.org",
+        "Careers Link": "Contact team@discourse.org",
+        "Description": "Discourse is built by Civilized Discourse Construction Kit, Inc. What is Discourse? Discourse is the 100% open source discussion platform built for the next decade of the Internet. It works as:  a mailing list a discussion forum a long-form chat room"
+      },
+      {
+        "Company Name": "DNSimple",
+        "Company Technologies": "Our web applications are typically developed in Ruby or Go. Our DNS servers are written in Erlang. We use Chef for automating our operational environments.",
+        "Website": "dnsimple.com",
+        "Careers Link": "We are a bootstrapped company, so we hire very slowly and intentionally, which means we only hire a few people, at most, each year. If you are interested in having a conversation about what we might be able to do together, and why you'd like to help make the world of domain names and DNS better for developers around the world, email Anthony: anthony.eden@dnsimple.com.",
+        "Description": "DNSimple   provides DNS, domain registration and SSL certificates for developers and small businesses worldwide."
+      },
+      {
+        "Company Name": "Doist",
+        "Company Technologies": "Android, iOS/OS X, Windows, Python, Django, Ruby on Rails, Javascript, HTML, CSS, CoffeeScript, React, MYSQL, Redis, GIT, Wordpress, C#, C++",
+        "Website": "doist.com",
+        "Careers Link": "https://doist.com/careers",
+        "Description": "At Doist, we specialize in productivity software. We create tools like Todoist and Todoist Business that simplify and organize the day. When software tames the chaos and streamlines the little things, it frees you to focus on the big things.  We’re a chiefly remote team from all around the world, and our mission is to help people do more each day so they can make the most of their potential."
+      },
+      {
+        "Company Name": "Drupal Jedi",
+        "Company Technologies": "Backend: Drupal, Go, NodeJS. Frontend: React, Angular, VueJS. DevOps: k8s, docker",
+        "Website": "drupaljedi.com",
+        "Careers Link": "https://drupaljedi.com/careers",
+        "Description": "Drupal Jedi is a leading agency with the focus on building advanced web apps. We are always looking for the best solution and encourage to use the right technology for the right task. Therefore a mix of Drupal with modern JS frameworks is our preferred setup."
+      },
+      {
+        "Company Name": "DuckDuckGo",
+        "Company Technologies": "Perl, HTML, JavaScript, CSS, Kotlin, Swift",
+        "Website": "duckduckgo.com",
+        "Careers Link": "https://duckduckgo.com/hiring",
+        "Description": "We are the Internet privacy company that lets you take control of your information, without any tradeoffs. Welcome to the Duck Side!"
+      },
+      {
+        "Company Name": "Elastic",
+        "Company Technologies": "Java: Elasticsearch HTML, Javascript, CSS: Kibana Ruby: Logstash APIs: Perl, Python, Ruby, Golang ...",
+        "Website": "elastic.co",
+        "Careers Link": "https://www.elastic.co/about/careers/",
+        "Description": "Founded in 2012 by the people behind the Elasticsearch and Apache Lucene open source projects, Elastic provides real-time insights and makes massive amounts of structured and unstructured data usable for developers and enterprises. By focusing on scalability, ease-of-use, and ease-of-integration, Elasticsearch, Logstash, and Kibana power many of the world’s leading mobile, social, consumer and business applications. Since its initial release, the open source stack has achieved more than 20 million cumulative downloads. Elastic is backed by Benchmark Capital, Index Ventures, and NEA with headquarters in Amsterdam and Mountain View, California, and offices and employees around the world. To learn more, visit www.elastic.co  ."
+      },
+      {
+        "Company Name": "Emsisoft",
+        "Company Technologies": "Endpoint: Delphi, C, C++, Assembly Backend: DotNet Core, MongoDB, PHP, Python, Angular Operations: Kubernetes, Docker, Nginx, Windows Server, Linux Productivity: Git, GitLab, Redmine, Slack, Office",
+        "Website": "emsisoft.com",
+        "Careers Link": "https://www.emsisoft.com/en/company/jobs/",
+        "Description": "Emsisoft is based in New Zealand, but our reach is global. Our team is composed of the most dedicated and talented people for the job, working in all corners of the world. We at Emsisoft don&apost know physical or cultural boundaries. We are all part of a diverse group of experts that create the best possible malware protection software for all."
+      },
+      {
+        "Company Name": "Envato",
+        "Company Technologies": "Ruby on Rails React JavaScript TypeScript AWS",
+        "Website": "envato.com",
+        "Careers Link": "https://envato.com/about/careers/",
+        "Description": "Envato is a world-leading online community for creative assets, tools and talent. Millions of people around the world visit Envato to buy and sell creative assets, use smart design templates, learn creative skills or even hire freelancers. With an industry-leading marketplace paired with an unlimited subscription service, Envato helps creatives like you get projects done faster. Whether it&aposs graphic templates, website themes, photos, video or audio, there&aposs every chance you’ll spot something from Envato today, from a café logo to a Hollywood title sequence!"
+      },
+      {
+        "Company Name": "Etsy",
+        "Company Technologies": "PHP, Postgres, Solr, Ruby, Hadoop, Go, JavaScript, CSS, Chef",
+        "Website": "etsy.com",
+        "Careers Link": "https://careers.etsy.com/global/en",
+        "Description": "Etsy is a marketplace where people around the world connect, both online and offline, to make, sell and buy unique goods. The heart and soul of Etsy is our global community: the creative entrepreneurs who use Etsy to sell what they make or curate, the shoppers looking for things they can’t find anywhere else, the manufacturers who partner with Etsy sellers to help them grow, and the Etsy employees who maintain and nurture our marketplace."
+      },
+      {
+        "Company Name": "Evrone",
+        "Company Technologies": "Ruby, Ruby on Rails, Python, Django, Erlang, Elixir, Go, Rust, React, Vue.js, Flutter, React Native",
+        "Website": "evrone.com",
+        "Careers Link": "Contact us via the contact form on our website  or shoot us an e-mail mail@evrone.com",
+        "Description": "Evrone   is a web design and development company with offices in Berlin, San Francisco, and Moscow. With extensive experience in a wide range of modern software technologies, we help companies design unique complex projects. During the past 10 years, we’ve been working on various web projects from the designing award-winning landing pages to the development of a custom ERP system for the world&aposs second-largest restaurant chain. We work with a wide range of industries as fintech, blockchain, medicine, video streaming, e-commerce and more. As we focus on custom solutions based on specific customer needs — we stick to the agile software development approach. Early delivery and effective response to changes are key values that we bring into every project.  Every year we organize different events for developers to share our experience and maintain the highest quality of our projects. Among these events are RubyRussia, the biggest Ruby/RoR conference in Russia, and Meta/conf, a series of events with different topics from frontend development to machine learning. Our key clients are:  Yum! Brands, Inc. L’oréal Paris Medcorder Crypton Polarstern Capital Cryptopay PebblePost"
+      },
+      {
+        "Company Name": "Eyeo (Adblock Plus)",
+        "Company Technologies": "JavaScript, Python, HTML, CSS, XUL, Java (Android), C++, Objective-C",
+        "Website": "eyeo.com",
+        "Careers Link": "https://eyeo.com/jobs/",
+        "Description": "Eyeo is the company behind the world&aposs most popular browser extension: Adblock Plus  . It maintains Adblock Plus versions for Firefox, Chrome, Opera, Safari and Internet Explorer; also standalone Adblock Plus applications for Android and iOS as well as Adblock Browser   for Android and iOS. Almost everything that the company does is open source, and the primary directive is delivering great products that will improve the web as a whole. In order to achieve our goal of creating a sustainable web ecosystem we developed the Acceptable Ads program  . Mediating between user and publisher interests, providing the former with a good web experience and allowing the latter to retain revenue sources, is a complicated task and we don&apost always make friends. However, we feel strongly that this is an important task to be done, and we&aposve already achieved significant successes."
+      },
+      {
+        "Company Name": "Fire Engine Red",
+        "Company Technologies": "No specific Information on what technologies are used and what is skill set they seek in new employees.",
+        "Website": "fire-engine-red.com",
+        "Careers Link": "https://fire-engine-red.com/career/",
+        "Description": "Fire Engine RED is a fully remote marketing, data, technology, and consulting services company that’s served the education market since 2001. Our services and products are used by more than 300 educational institutions."
+      },
+      {
+        "Company Name": "Glitch",
+        "Company Technologies": "c# jquery python javascript sql-server elasticsearch redis mercurial git f# node.js mongodb websocket coffeescript html5 express.js haproxy .net asp.net-mvc docker golang ruby",
+        "Website": "https://glitch.com/",
+        "Careers Link": "https://glitch.bamboohr.com/jobs/",
+        "Description": "We Help the World&aposs Best Developers Make Better Software. Fog Creek Software is a small, friendly software company in New York City that was designed from the ground up to be a great place to work. We work on interesting projects with smart people,and treat everyone like royalty. Some of the product born at Fog Creek include FogBugz, Kiln, and Trello. We had a hand in Stack Exchange, too!"
+      },
+      {
+        "Company Name": "fournova",
+        "Company Technologies": "ruby, rails, Objective-C, Cocoa, etc.",
+        "Website": "fournova.com",
+        "Careers Link": "https://www.fournova.com/jobs",
+        "Description": "fournova is a small software company based in Germany. Founded in 2010, we set out to create software that matters. Our product Tower helps over 100,000 customers in companies like Apple, Google, Amazon, and Twitter to easily & productively work with the Git version control system."
+      },
+      {
+        "Company Name": "Functionize",
+        "Company Technologies": "GCP Java Javascript/NodeJS PHP Ansible",
+        "Website": "functionize.com",
+        "Careers Link": "To apply, please see openings on our careers page or use the Contact Us form: https://www.functionize.com/careers/",
+        "Description": "Functionize is a startup focused on developing the next generation of automated UI testing tools. Our goal is to dramatically reduce time to market by improving test case creation and maintenance through AI. We are a fully distributed team, with employees on 4 continents. Company site:  https://www.functionize.com/"
+      },
+      {
+        "Company Name": "General Assembly",
+        "Company Technologies": "Languages: Ruby 2.X+ Javascript CoffeeScript Frameworks: Rails 3.x for some bigger legacy apps, Rails 4.x for all newer stuff with solid upgrade paths Grape for APIs ( intridea/grape ) Backbone React ( A JavaScript library for building user interfaces ) App Serving: Nginx (routes a few of our apps on our domain root) Webpack ( webpack module bundler) Unicorn & Puma depending on the app&aposs needs and performance metrics Databases & Caching: PostgreSQL Redis Memcache Testing: RSpec Cucumber (trading it out for RSpec features) Minitest Experimenting with Nightwatch.js ( Nightwatch.js ) Background Processing: Sidekiq CDN: Fastly ( Fastly ) Image Processing: Cloudinary ( Cloudinary ) Monitoring: NewRelic Librato ( Highly Scalable Metrics, Monitoring, and Alerts | Librato ) Papertrail Exception Tracking: Honeybadger ( Honeybadger ) CI: Semaphore Ci ( Continuous Integration & Deployment ) Platform: Heroku all the things Rackspace for redundant backups, DB backups, deprecated repo storage, etc",
+        "Website": "generalassemb.ly",
+        "Careers Link": "https://boards.greenhouse.io/generalassembly",
+        "Description": "Since 2011, General Assembly has transformed tens of thousands of careers through pioneering, experiential education in today&aposs most in-demand skills. As featured in The Economist, Wired, and The New York Times, GA offers training in web development, data, design, business, and more, both online and at campuses around the world. Our global professional community boasts 40,000 full- and part-time alumni — and counting. In addition to fostering career growth for individuals, GA helps employers cultivate top tech talent and spur innovation by transforming their teams through strategic learning. More than 21,000 employees at elite companies worldwide have honed their digital fluency with our corporate training programs. GA has also been recognized as one of Deloitte&aposs Technology Fast 500, and Fast Company has dubbed us leaders in World-Changing Ideas as well as the #1 Most Innovative Company in Education."
+      },
+      {
+        "Company Name": "Ghost Foundation",
+        "Company Technologies": "Ember.js, node.js, Grunt,",
+        "Website": "ghost.org",
+        "Careers Link": "https://apply.workable.com/ghost/",
+        "Description": "Ghost is a design-led Open Source project. We&aposre focused on the details. The end user. The experience from start to finish. We believe that free and open don&apost need to be synonymous with \"clunky\". We&aposre creating a sustainable Open Source company with a full time team dedicated to enabling beautiful publishing around the world. Here are just a few of the perks of working with us: • Work with a world-class team of designers, developers & writers. • Choose where you work and how you work. It&aposs entirely up to you. • We don&apost count hours. Take flexible time off when you need it. • Conferences, books, and memberships covered • Remote office costs covered • Retreats abroad a few times a year with the entire company The Ghost Foundation   oversees the Ghost project and and run the hosted platform for Ghost(Pro)."
+      },
+      {
+        "Company Name": "GitHub",
+        "Company Technologies": "Ruby on Rails Go MySQL CoffeeScript Sass Git",
+        "Website": "github.com",
+        "Careers Link": "https://github.com/about/careers",
+        "Description": "GitHub is how people build software. With a community of more than 36 million people, developers can discover, use, and contribute to over 100 million projects using a powerful collaborative development workflow. Come help us make collaboration even better. At GitHub we build the tools that make collaborating and writing software easier. We’ve built a company we truly love working for, and we think you will too. Here’s why  ."
+      },
+      {
+        "Company Name": "GitLab",
+        "Company Technologies": "Based on the open source GitLab   application which was originally written in Ruby on Rails. Current GitLab technology stack includes:",
+        "Website": "about.gitlab.com",
+        "Careers Link": "https://about.gitlab.com/jobs/",
+        "Description": "GitLab   is a single application built from the ground up for all stages of the DevOps lifecycle for Product, Development, QA, Security, and Operations teams to work concurrently on the same project. GitLab provides teams a single data store, one user interface, and one permission model across the DevOps lifecycle allowing teams to collaborate and work on a project from a single conversation, significantly reducing cycle time and focus exclusively on building great software quickly. Built on Open Source, GitLab leverages the community contributions of thousands of developers and millions of users to continuously deliver new DevOps innovations. More than 100,000 organizations from startups to global enterprise organizations, including Ticketmaster, ING, NASDAQ, Alibaba, Sony, and Intel trust GitLab to deliver great software at new speeds."
+      },
+      {
+        "Company Name": "GoHiring",
+        "Company Technologies": "React.js Ruby More languages as a bonus",
+        "Website": "gohiring.com",
+        "Careers Link": "https://www.gohiring.com/jobs/#jobs",
+        "Description": "GOhiring provides a digital infrastructure for companies, HR IT-systems, job portals and agencies to enable a more direct and productive cooperation. That way, job postings can be published via an API and managed with transparency via digital processes. We believe in open systems and are passionate about the digital possibilities in the recruiting world."
+      },
+      {
+        "Company Name": "Graylog",
+        "Company Technologies": "Java MongoDB ReactJS/Javascript",
+        "Website": "graylog.org",
+        "Careers Link": "https://www.graylog.org/careers",
+        "Description": "Graylog is an open source, centralized log management alternative to Splunk."
+      },
+      {
+        "Company Name": "Gruntwork",
+        "Company Technologies": "The main technologies we use include Terraform  , Go  , Docker  , Packer  , and AWS  . We also spend a lot of time working on open source  , doing talks  , and writing blog posts   and books  .",
+        "Website": "gruntwork.io",
+        "Careers Link": "Email us at careers@gruntwork.io",
+        "Description": "Gruntwork   offers DevOps as a Service. Our mission is to make software an order of magnitude easier to understand, develop, and deploy. The first step in that direction is to build products and technologies that completely transform how companies build infrastructure and do DevOps (read about our approach here  ). Here&aposs who we are:  We&aposre distributed. Work remotely from anywhere in the world. We&aposre family friendly. No crazy hours. We&aposre 100% bootstrapped and profitable. No investor pressure. We are working with some of the biggest brands in the world."
+      },
+      {
+        "Company Name": "Hanno",
+        "Company Technologies": "Our current stack is based on the latest version of JavaScript, EcmaScript 2015 (or ES6). When not working with node.js (which already supports a lot of ES6 features), we transpile ES6 code using Babel. As a build tool, we mainly use Webpack, but also have experience using Gulp and Grunt. With the release of Webpack 2, which has a strong community, extensive plugin system and huge flexibility, we advocate for using it on most our projects. Depending on the project needs, we typically use either React or Angular. Both are great options, and our choice usually comes down to the needs of the project. Even though React is just a view layer for your app, it has a great ecosystem many add-ons for the model/controller layer to build more complex apps, such as Redux or MobX. By contrast, Angular comes with a lot of pre-defined structure and tells you how to lay out your app and components. It also enables developers to write more HTML-like code with React and is a great choice when prototyping app ideas quickly.",
+        "Website": "hanno.co",
+        "Careers Link": "https://hanno.co/careers/",
+        "Description": "The digital health designers. We help health and wellness companies deliver customer-centered digital experiences. Something big is happening in the health industry. Health is no longer confined to the walls of the doctor&aposs office. Whether monitoring their sleep habits, diet or managing a chronic illness, your customers are taking their health into their own hands—and they&aposre expecting you to keep up. That&aposs why it matters that you provide them with digital experiences that they love and trust. Here at Hanno, we take care of everything from product marketing and strategy, right the way through to designing, building and launching life-changing digital products. Health is our sweet spot—working across multiple industries, we get how technology shapes behaviour, putting us in a unique place to help you navigate the growing demand and expectation for digital health services."
+      },
+      {
+        "Company Name": "Harvest",
+        "Company Technologies": "Docker, Chef,  Ansible, Ruby, AWS & Rackspace Cloud, MySQL, Nginx, Graphite, StatsD, Sensu, Git, Redis",
+        "Website": "getharvest.com",
+        "Careers Link": "https://www.getharvest.com/careers",
+        "Description": "We believe software should be useful, simple, and fast – so you can work better, get more accomplished, and make smarter decisions for your business. Harvest was founded by Danny Wen and Shawn Liu in 2006, at a small office in downtown New York City. During the years leading up to launching Harvest, we ran a web design studio called Iridesco. As our business grew, we looked for tools to help us scale. We searched for a way to easily track time and invoice for our services. We wanted a well designed application that took user experience seriously. We wanted a service that innovated with technology. We couldn’t find one... So we decided to invest our own time, energy and money into creating what we knew was a better way to run our business – and Harvest was born."
+      },
+      {
+        "Company Name": "Heap",
+        "Company Technologies": "Our app-layer stack is TypeScript, Backbone, Marionette, Node.js, Redis, and PostgreSQL. Under the hood, Heap is powered by CoffeeScript, Scala, ZooKeeper, Kafka, Akka, and CitusDB.",
+        "Website": "heapanalytics.com",
+        "Careers Link": "https://heap.io/careers/jobs#engineer",
+        "Description": "Heap is building analytics infrastructure for the web. Our goal is to make data science accessible to every online business. Our product help 3,000+ companies make data-driven decisions about their users."
+      },
+      {
+        "Company Name": "Help Scout",
+        "Company Technologies": "React, Redux, CSS, Jest, and Cypress",
+        "Website": "helpscout.net",
+        "Careers Link": "https://www.helpscout.com/company/careers/#open-roles",
+        "Description": "Help Scout is designed with your customers in mind. Provide email and live chat with a personal touch, and deliver help content right where your customers need it, all in one place, all for one low price."
+      },
+      {
+        "Company Name": "Honeybadger",
+        "Company Technologies": "AWS, JavaScript, Ruby/Rails",
+        "Website": "honeybadger.io",
+        "Careers Link": "https://www.honeybadger.io/careers/",
+        "Description": "Honeybadger simplifies your production stack by combining exception monitoring, uptime monitoring and check-in monitoring into a single, easy to use platform."
+      },
+      {
+        "Company Name": "Hugo",
+        "Company Technologies": "Please check our stack on Stackshare here: Hugo: https://stackshare.io/hugo-events   Quriobot: https://stackshare.io/quriobot/quriobot",
+        "Website": "hugo.events",
+        "Careers Link": "https://hugo.events/en/careers",
+        "Description": "Hugo has two beautiful products (built in house): -Quriobot (https://quriobot.com  ): our latest product which offers you a chatbot without any hassle and with beautiful elegance. It gives your website/product/service that personal touch the internet misses via conversational UI  -Hugo (https://hugo.events/product  ): which is a fanbase management solution (think of it as a combination of SurveyMonkeys and Mailchimps). It accumulates your people data and allows you to enrich it, segment it and easily send out email campaigns."
+      },
+      {
+        "Company Name": "Hypergiant",
+        "Company Technologies": "AI Automation Smart learning technologies Data service Sensor Technologies",
+        "Website": "hypergiant.com/contact",
+        "Careers Link": "https://www.hypergiant.com/careers",
+        "Description": "Hypergiant offers services that include innovative technologies of Robotic Process Automation equipped with smart learning. Hyper Giant offers solutions for aerospace, energy cyber security, healthcare, shipping, manufacturing, transportation, automotive, pharmaceuticals, telecommunications and banking. Hypergiant was previous Black Pixel."
+      },
+      {
+        "Company Name": "Hypothesis",
+        "Company Technologies": "Python, Javascript, some Angular, so much more!",
+        "Website": "hypothes.is",
+        "Careers Link": "https://web.hypothes.is/jobs/",
+        "Description": "Our team is building an open platform for discussion on the web. It leverages annotation to enable sentence-level critique or note-taking on top of news, scientific articles, books, and more. We&aposre a small non-profit building open source software."
+      },
+      {
+        "Company Name": "Incsub",
+        "Company Technologies": "WordPress PHP Nodejs Vagrant Git",
+        "Website": "incsub.com",
+        "Careers Link": "https://incsub.com/careers/",
+        "Description": "We are Incsub, and we are behind WordPress projects WPMU DEV   and Edublogs  .  Incsub is short for &aposIncorporated Subversion&apos, which is what we build into everything we make. WPMU DEV is the largest premium WordPress site on the web. More developers, more support staff and more WordPress love than anywhere else - it&aposs like having your own dedicated team. Edublogs the second largest WordPress site in the World, providing millions of blogs for teachers, students and institutions."
+      },
+      {
+        "Company Name": "Instamobile",
+        "Company Technologies": "React Native Flutter iOS Android Swift Kotlin",
+        "Website": "instamobile.io",
+        "Careers Link": "https://www.instamobile.io/react-native-jobs/",
+        "Description": "Instamobile offers premium stunning React Native app templates, to help developers, entrepreneurs and designers launch their mobile apps more quickly and at a fraction of the cost. Instamobile’s fully functional app templates are production-ready and can be submitted to the App Store and Google Play Store literally on day 0. Instamobile offers fully functional stunning mobile app templates to help entrepreneurs launch their minimum viable product for their startups in a few hours, by including 90% of the boilerplate code necessary for launching their mobile app. Launch your mobile app today with already built-in features such as shopping, dating, food ordering, photo messaging, chatting, maps, backend, and many more. Next time you start developing a new mobile app from scratch, consider using a fully functional React Native app template from Instamobile. Don’t reinvent the wheel. You can save days of design and development, by leveraging beautifully designed React Native starter kits, containing boilerplate code & stunning UI for features such as shopping, dating, food ordering, chatting, maps, Firebase, and more."
+      },
+      {
+        "Company Name": "InVision",
+        "Company Technologies": "Go, Node, JavaScript, TypeScript, React, Docker, Kubernetes",
+        "Website": "invisionapp.com",
+        "Careers Link": "https://www.invisionapp.com/careers",
+        "Description": "InVision is the Digital Product Design platform used to make the world’s best customer experiences. We provide design tools and educational resources for teams to navigate every stage of the product design process, from ideation to development. Today, more than 4 million people use InVision to create a repeatable and streamlined design workflow; rapidly design and prototype products before writing code, and collaborate across their entire organization. That includes more than 80 percent of the Fortune 100, and organizations like Airbnb, Amazon, HBO, Netflix, Slack, Starbucks and Uber, who are now able to design better products, faster. InVision is a fully distributed company with employees in 25 countries around the world. The company has raised more than $235 million in funding from leading investors including Accel, ICONIQ, FirstMark, Tiger Global, Battery Ventures, and Spark Capital."
+      },
+      {
+        "Company Name": "IOHK",
+        "Company Technologies": "Haskell Scala Rust",
+        "Website": "iohk.io",
+        "Careers Link": "https://apply.workable.com/io-global/",
+        "Description": "Founded in 2015 by Charles Hoskinson and Jeremy Wood, IOHK is a technology company committed to using peer-to-peer innovations to provide financial services to the three billion people who don’t have them. We are an engineering company that builds cryptocurrencies and blockchains for academic institutions, government entities and corporations. We are a decentralized company that loves small, innovative teams forming and executing ideas that cause cascading disruption."
+      },
+      {
+        "Company Name": "IPInfo",
+        "Company Technologies": "Docker PostgreSQL BigQuery Redis Bash Scripting Node.js",
+        "Website": "ipinfo.io",
+        "Careers Link": "https://ipinfo.io/jobs",
+        "Description": "IPInfo is the team behind the popular IP Intelligence API   used by more than 100,000+ businesses and developers, handling 40B+ requests/month. We started with a goal of creating a dead-simple API to identify geolocation from the IP address. Since then, we have grown to create our own geolocation data-set (not relying on MaxMind  ), identifying bots, carrier information, companies, and ASNs."
+      },
+      {
+        "Company Name": "iwantmyname",
+        "Company Technologies": "We&aposre currently using modern Perl, Erlang, Python, node, CouchDB, RabbitMQ, Kyoto Tycoon, Puppet, Vagrant, Docker and are looking at a whole lot of new toys to build the best possible experience for our customers.",
+        "Website": "iwantmyname.com",
+        "Careers Link": "https://iwantmyname.com/jobs",
+        "Description": "iwantmyname is a pure domain management service offering domain registration and DNS hosting. We believe that any person, organisation or company should have complete control over their web address. You should be able to own it, use it the way you want and move it if necessary. This can all be achieved by registering a domain name. Until now, the process of buying and managing domains has been far too difficult, confusing and non-transparent. Consequently, we have set out to create a much better experience for domain seekers in order to make it simple to find, register and set up domains."
+      },
+      {
+        "Company Name": "Jaya Tech",
+        "Company Technologies": "Kotlin, Ruby, JS, Clojure and Elixir.",
+        "Website": "jaya.tech",
+        "Careers Link": "https://jaya.tech/",
+        "Description": "We are a dev shop (more like a dev family) specialized on startups / disruptive projects. We deliver value by composing teams (squads) with our developers and client&aposs product managers."
+      },
+      {
+        "Company Name": "Jitbit",
+        "Company Technologies": "C#, ASP.NET MVC, ASP.NET Core, Javascript, Angular, Typescript, Ionic, Python",
+        "Website": "jitbit.com",
+        "Careers Link": "Send an email to : info@jitbit.com",
+        "Description": "Jitbit is a helpdesk app that tries to help people do their jobs better instead of being just another tool their boss made them use. We value clean design and ease of use the most."
+      },
+      {
+        "Company Name": "Koding",
+        "Company Technologies": "JavaScript Go CoffeeScript Shell Linux HCL",
+        "Website": "koding.com",
+        "Careers Link": "Use the contact link on: https://www.koding.com/about",
+        "Description": "Koding is a San Francisco based technology company that is eliminating wasteful tasks from the world of software development and creating a simple way to be more collaborative and productive. It provides development environments and development tools in the form of virtual machines, online IDE, browser-based Terminals, and so on."
+      },
+      {
+        "Company Name": "Komoot",
+        "Company Technologies": "Android iOS Git HTML CSS BootStrap JavaScript ReactJS",
+        "Website": "komoot.com",
+        "Careers Link": "https://www.komoot.com/jobs",
+        "Description": "For millions of people, komoot is the key to the great outdoors. From intrepid explorers and experienced off-roaders, to those who just bought their first road bike, our technology allows everybody to better find, plan and live authentic outdoor experiences. They built komoot for this very reason: Because we believe in the importance of experience. We believe that it’s life’s little moments that make it so special—and we are proud that our work empowers people all over the world to explore places, try activities and live adventures that, without it, they would not have the means to experience. And from our market-leading mobile apps and our remote-first, work-where-you-want operational structure, to our regular team gatherings that take us all over the globe, this is something we embody in everything we do. We always put experience first—and through it, we are changing the way people explore."
+      },
+      {
+        "Company Name": "Kraken",
+        "Company Technologies": "JavaScript, Typescript, React, PHP, Rust, Go.",
+        "Website": "kraken.com",
+        "Careers Link": "https://jobs.lever.co/kraken",
+        "Description": "Kraken is one of the most sophisticated cryptocurrency trading platforms in the world."
+      },
+      {
+        "Company Name": "Leadership Success",
+        "Company Technologies": "Javascript, VueJS, Firebase, Node.js,",
+        "Website": "leadershipsuccess.co",
+        "Careers Link": "Email at : hello@leadershipsuccess.co",
+        "Description": "Leadership Success   provides remote leadership coaching and advisory to leaders and HR professionals worldwide.  We&aposve delivered nearly 90,000 hours of virtual coaching to over 15,000 participants from organisations of all shapes and sizes."
+      },
+      {
+        "Company Name": "Lifetime Value Company",
+        "Company Technologies": "Ruby, Ruby on Rails, Go, EmberJS, React, PHP, HTML, CSS, JavaScript",
+        "Website": "ltvco.com",
+        "Careers Link": "https://www.ltvco.com/careers/",
+        "Description": "Over the past decade, we’ve built a collection of brands focused on unlocking long-term value for customers, investors and employees. While we’re certainly not the first company to utilize Lifetime Value (LTV) models, such long-term thinking informs the products we build, the people we work with, and the success we’re trying to achieve. We build and ship best-in-class apps and web-based products and tools like BeenVerified, PeopleLooker and more that put the power of information into the hands of our customers."
+      },
+      {
+        "Company Name": "Lightbend",
+        "Company Technologies": "Scala Java",
+        "Website": "lightbend.com",
+        "Careers Link": "https://www.lightbend.com/company/careers",
+        "Description": "Lightbend provides the leading JVM application development platforms for building microservices and fast data applications. Based on a message-driven runtime, these distributed systems deliver the dramatic benefits of multi-core and cloud computing architectures."
+      },
+      {
+        "Company Name": "Linaro",
+        "Company Technologies": "Linux Kernel, Open Source, Embedded Linux, software, collaboration, engineering, and Arm",
+        "Website": "linaro.org",
+        "Careers Link": "https://www.linaro.org/careers/",
+        "Description": "Linaro helps companies work with the latest open source technology, building support in upstream projects and ensuring smooth product roll outs and secure software updates. Instead of duplicating effort, members share engineering costs to accelerate innovation and time to market."
+      },
+      {
+        "Company Name": "Linux Foundation",
+        "Company Technologies": "Go Docker C, C++ Bash Etc Open Source Project",
+        "Website": "linuxfoundation.org",
+        "Careers Link": "https://www.linuxfoundation.org/about/careers/",
+        "Description": "The Linux Foundation is the organization of choice for the world&aposs top developers and companies to build ecosystems that accelerate open technology development and commercial adoption. Together with the worldwide open source community, it is solving the hardest technology problems by creating the largest shared technology investment in history. Founded in 2000, The Linux Foundation today provides tools, training and events to scale any open source project, which together deliver an economic impact not achievable by any one company."
+      },
+      {
+        "Company Name": "Litmus",
+        "Company Technologies": "Ruby on Rails, .NET, AWS",
+        "Website": "litmus.com",
+        "Careers Link": "https://www.litmus.com/careers/",
+        "Description": "Litmus is helping over 250,000 email marketers worldwide make email better."
+      },
+      {
+        "Company Name": "Localistico",
+        "Company Technologies": "Localistico is based on Ruby on Rails, with some Go components. Data storage is PostgreSQL, Redis/resque and ElasticSearch. Our frontend is a web app in Ember.js. Our whole deployment is cloud based with Codeship+Heroku. We use Github as code repository and issues platform.",
+        "Website": "localistico.com",
+        "Careers Link": "https://angel.co/company/localistico/jobs",
+        "Description": "We are a local marketing platform. We help business owners and marketing teams to manage and track how their locations look across different mapping and local platforms, from Google Maps to Yelp. We’re generating early revenue and our current clients include brands like El Corte Inglés, Sabadell Bank, Jurys Inn and Foxtons."
+      },
+      {
+        "Company Name": "Lullabot",
+        "Company Technologies": "Drupal PHP HTML Sass CSS JavaScript Ruby Phone Gap Titanium",
+        "Website": "lullabot.com",
+        "Careers Link": "https://www.lullabot.com/jobs",
+        "Description": "Lullabot is one of the top open source, interactive agencies in the world. We employ talented developers, designers, project managers, trainers, unicyclers, and more to make amazing websites, mobile apps and all manner of delightful tech."
+      },
+      {
+        "Company Name": "MailerLite",
+        "Company Technologies": "Backend:  PHP Laravel Frontend:  VueJS Nuxt.js SASS LESS AngularJs Angular.io TypeScript Javascript Smarty templates Datastores:  MySQL Postgres Elasticsearch MongoDB Redis Memcached Devops:  GCP Terraform Kubernetes Docker Vagrant Ansible CircleCI Golang Python Mobile:  Swift",
+        "Website": "mailerlite.com",
+        "Careers Link": "https://www.mailerlite.com/jobs",
+        "Description": "MailerLite   is an email marketing tool with a remote-first team that&aposs scattered all over the world. Twice a year, the team goes on workation   to places like Bali, Azores, Lithaunia, Panama and Miami."
+      },
+      {
+        "Company Name": "Mapbox",
+        "Company Technologies": "Mapbox GL JS for web, iOS, Android, React Native, Unity, Qt. Software Our focus for releasing software as open source is on reusable, general-purpose parts. In many cases, this means modules, rather than applications. We distribute these modules for other developers to use on websites like npm   and PyPI  . For instance, rasterio   is a core part of our image processing pipeline that we make available for any Python programmer to use. A minority of our software is closed-source: Software that connects server processes and is heavily dependent on our configuration. This is a prevalent category but tends to be very small, in terms of code. Software that packages up business workflows. Software highly specific to Mapbox’s product, tied into our design, and core to our competitive advantage is often kept closed. These projects are usually applications and servers composed of parts that we release as open source so that others can build from the same foundations. Standards Standards make modern software possible by connecting modular parts into systems. Open formats are the groundwork of open data. Mapbox is built on open standards: we adopt existing specs like GeoJSON and author new standards for new purposes, like MBTiles   and GL Style Spec  . We release them under permissive licenses   that enable everyone to freely implement them in products and software, and to improve upon them. Design Design components that are reusable, general purpose, and not explicitly tied to the Mapbox brand, like Maki  , make sense as open source. We also release templates that show how to use our tools, like those in Guides  . Most of our artwork is copyrighted and not placed under any open license. It’s tied to the Mapbox identity: reusing the Mapbox.com website style isn’t a use-case we want to support. The uniqueness and specificity of our style is important to how customers identify “oh, this is Mapbox”. Data The vast majority of Mapbox’s data is in the open. Large sources include OpenStreetMap  , USGS  , Landsat  , Natural Earth  , and OpenAddresses  . We contribute to these sources, participate in their communities, and invest in tools that help improve them. We also work extensively with proprietary sets of data that we buy: we legally can’t open these. Nor do we release heavily processed data. Processing data and delivering the final products has obvious and real costs: server infrastructure and bandwidth, as well as labor. Our ability to distill meaning out of raw material is a core part of our product.",
+        "Website": "mapbox.com",
+        "Careers Link": "https://www.mapbox.com/careers/",
+        "Description": "Mapbox is a mapping platform for developers. Our building blocks make it easy to integrate location into any mobile or online application. We want to change the way people move around cities and understand our planet. From finding a coffee spot on Foursquare, to pinning a vacation spot on Pinterest, to geo-tagging notes in Evernote – we do the geo stuff so developers can focus on building their app. Mapbox is the foundation for other platforms, letting enterprises analyze their data, drone companies publish flyovers, real estate sites visualize properties, satellite companies process cloud-free imagery, and insurance companies track assets. Mapbox is an open source company. We build our product with open source parts, work in the open, and release as much code as possible – it&aposs the right thing for people, technology, and business."
+      },
+      {
+        "Company Name": "Memberful",
+        "Company Technologies": "WordPress Google Analytics Campaign Monitor ConvertKit Drip Mailchimp Mailerlite Discourse Discord bbPress Tapfiliate LearnDash Sensei Zapier API & Webhooks",
+        "Website": "memberful.com",
+        "Careers Link": "https://memberful.com/jobs/",
+        "Description": "Memberful was founded in 2013. We help independent publishers, educators, and creators sell memberships to their audience and build sustainable businesses."
+      },
+      {
+        "Company Name": "Microsoft",
+        "Company Technologies": "C++, C#, Java, .NET, React, Swift, Typescript",
+        "Website": "https://www.microsoft.com",
+        "Careers Link": "https://careers.microsoft.com/us/en",
+        "Description": "We’re on a mission to empower every person and every organization on the planet to achieve more."
+      },
+      {
+        "Company Name": "Mixmax",
+        "Company Technologies": "Current stack is Node, Express, Backbone, React, Redis, Mongo, Elasticsearch, Docker, AWS.",
+        "Website": "mixmax.com",
+        "Careers Link": "https://www.mixmax.com/careers/",
+        "Description": "About Us Mixmax is a communications platform that brings the power of the web to email. We’re growing fast! Thousands of businesses depend on us for their daily productivity, with customers from Uber, Airbnb, and Dropbox. With Mixmax, anyone can build an interactive app that works both on web/mobile and in email. Try the product at https://mixmax.com  . Our Mission Mixmax&aposs mission is to the reinvent the way professionals communicate for work. We&aposre building the impossible: a rich communications platform that brings the power of the web to everyday communication. This includes easily scheduling meetings, completing surveys, making purchases, signing documents, and even interacting with apps. We’re fully integrated with Gmail, Salesforce, Slack, Greenhouse, and many more services."
+      },
+      {
+        "Company Name": "Molteo",
+        "Company Technologies": "Node.js, Vue.js, Flutter, iOS, Openfaas, PostgreSQL, Docker, Kubernetes, Firebase, Google Cloud, AWS.",
+        "Website": "molteo.com",
+        "Careers Link": "https://molteo.join.com/",
+        "Description": "Digital Workspace for the Construction Industry Many construction companies are still heavily relying on paper-based repetitive processes in their everyday work. This leads to problems when monitoring the status of running projects, scheduling new projects, or planning the long-term development of the company. The company’s liquidity is in danger, when delays, reduced quality, and/or disputes with client, become the norm rather than the exception.  Molteo is the tool, which consists of modules that cover all areas from capturing data, to advanced analytics, and lastly data-driven recommendations that enable the construction companies to plan and act ahead. Our real-time overview of projects, fast resource capturing, and paperless billing enables the company to become more profitable, free up time of their employees, and lastly enable information sharing across the company."
+      },
+      {
+        "Company Name": "MongoDB",
+        "Company Technologies": "NoSQL Database as a Service Cloud Platform",
+        "Website": "mongodb.com",
+        "Careers Link": "https://www.mongodb.com/careers",
+        "Description": "What on Earth is MongoDB? Only the coolest collection of dreamers and doers who share a relentless passion for creativity. We eagerly and expertly pursue new opportunities and markets through innovation and disruption. We have a wicked pioneering spirit––always ready to forge new paths and take smart risks. And we do it all very, very well. We achieve this by bringing together a distinctive mix of diverse skills, experiences, and backgrounds. We work as a team––creating an open forum for innovative thought, candid discussion, and mutual respect. But in the end, we always put commitment over consensus, and value excellence in all its wonderful forms."
+      },
+      {
+        "Company Name": "Muck Rack",
+        "Company Technologies": "Python Django Celery Redis Elasticsearch Nginx Gunicorn Varnish Ansible Sass Backbone, ES6, Webpack",
+        "Website": "muckrack.com",
+        "Careers Link": "https://muckrack.com/careers",
+        "Description": "Muck Rack is the new standard in public relations software. Easily search for journalists, monitor news, and build reports."
+      },
+      {
+        "Company Name": "MySQL",
+        "Company Technologies": "C, C++, C#, .NET, Java, PHP, Perl, Python",
+        "Website": "mysql.com",
+        "Careers Link": "https://www.mysql.com/about/jobs/",
+        "Description": "MySQL is the world&aposs most popular open source database software. Many of the world&aposs largest organizations, including Yahoo!, Alcatel, The Associated Press, Suzuki and NASA rely on MySQL for their critical business applications."
+      },
+      {
+        "Company Name": "Netsparker",
+        "Company Technologies": ".NET Framework, Winforms",
+        "Website": "netsparker.com",
+        "Careers Link": "https://www.netsparker.com/careers/",
+        "Description": "We are a small company with great technical skills and a passion for web application security. We are currently developing one of the most innovative security scanners in the market, used by thousands around the world, including an impressive list of leading companies and government agencies. Although the company is based in London (UK), its entire workforce is virtual, with team members around the world using the latest tools and techniques to contribute, collaborate and get their jobs done. To keep it real, we meet up occasionally (most recently in Istanbul) but, for the most part, we prefer to sidestep the outdated rituals of old-school business. We have no dress code or fixed working hours and we don’t suffer from micro-management; just a shared determination to make our product better and to satisfy the needs of our enthusiastic customer base. Every aspect of our business operates within an agile results-driven “startup” mindset. We exchange information freely within our team and encourage every member to take risks that will give us an edge on our competition."
+      },
+      {
+        "Company Name": "NodeSource",
+        "Company Technologies": "Node.js JavaScript Git Docker Kubernetes Cloud Foundry AWS C++",
+        "Website": "nodesource.com",
+        "Careers Link": "https://nodesource.com/",
+        "Description": "NodeSource is the Node.js company providing Enterprise-grade security, performance, and monitoring abilities to companies and businesses globally. At NodeSource, we&aposve built out N|Solid, Certified Modules, and Dedicated Support as a complete way for businesses to ensure they can rely on their mission-critical Node.js apps and services."
+      },
+      {
+        "Company Name": "Octopus Deploy",
+        "Company Technologies": "C# .NET TypeScript React Go",
+        "Website": "octopus.com",
+        "Careers Link": "https://octopus.com/company/careers",
+        "Description": "Octopus Deploy is your DevOps happy place Manage releases, automate complex application deployments, and automate routine and emergency operations tasks."
+      },
+      {
+        "Company Name": "OnTheGoSystems",
+        "Company Technologies": "PHP React Node.js AWS Mattermost ZOOM",
+        "Website": "onthegosystems.com",
+        "Careers Link": "https://onthegosystems.com/jobs/",
+        "Description": "OnTheGoSystems develop WordPress plugins, WPML and Toolset. Toolset makes it easier and quicker for users to build a professional website without complex coding. WPML is the world’s most popular multilingual plugin, helping more than 700k websites translate their content. It is integrated with the most popular translation services, themes, and plugins, including WooCommerce. We also offer professional translation services. OUR COMPANY OF PRODUCTS  WPML is the #1 WordPress Multilingual Plugin. WPML is used to help you translate any website, big or small, e-commerce included. WPML is used in over 700,000 websites, is compatible with all the major plugins, themes, and page builders, (including WooCommerce). WPML allows you to translate everything: pages, posts, custom types, forms, taxonomy, menus, and themes text. Toolset allows you to build WordPress sites in hours, not weeks. Toolset lets you build your own listing sites, directories, membership sites, and shops. It is made of 8 component plugins that help developers create and display custom WordPress content without having to use PHP. Posts and pages aren’t enough for every site. If you need more, Toolset and it’s 8 plugins are the answer."
+      },
+      {
+        "Company Name": "OpenCraft",
+        "Company Technologies": "Open source, Open source software, Open edX, edX courses, Online training , Remote work, Software hosting, Elearning, Educational technology, Learning management systems, and Massive online open courses",
+        "Website": "opencraft.com",
+        "Careers Link": "https://opencraft.com/jobs/open-source-developer/",
+        "Description": "OpenCraft is the leading Open edX platform development provider with more than 1,000 contributions to the project. OpenCraft works closely with the edX organization, the world’s leading Massive Open Online Course provider. edX has worked with OpenCraft to develop key features to the platform and has publicly recognized OpenCraft as one of the leading Open edX specialists in the community. Services include:  Setting up your own learning platform with self-service and enterprise hosting offerings Developing custom integrations and interactive exercises Receiving support, guidance and code reviews Designing courses based on expert advice and reviews   OpenCraft team members have extensive technical experience which allows us to work with customers to achieve their strategic goals of delivering innovative learning experiences and promote professional and life-long education.  Customers include:  Harvard Massachusetts Institute of Technology Arizona State University Cloudera LabXchange Australian National University Berkeley School of Information  OpenCraft is decentralized, which lets us recruit the best talent, no matter their location. If you want a team of proven experts to help you deliver online courses on the Open edX platform, contact us at contact@opencraft.com."
+      },
+      {
+        "Company Name": "OpenZeppelin",
+        "Company Technologies": "Soldity, javascript, typescript, node.js",
+        "Website": "openzeppelin.com",
+        "Careers Link": "https://openzeppelin.com/jobs/#openings",
+        "Description": "OpenZeppelin provides tools to write, deploy and operate decentralized applications. We also protect leading organizations by performing security audits on their systems and products."
+      },
+      {
+        "Company Name": "Optoro",
+        "Company Technologies": "Ruby, Rails, Kafka, PostgreSQL, Mongo, Docker, Kubernetes, Snowflake, Python",
+        "Website": "optoro.com",
+        "Careers Link": "https://www.optoro.com/careers/",
+        "Description": "Optoro’s returns optimization platform uses machine learning and predictive analytics to route returned and excess inventory to the next best home, reducing financial, operational, and environmental waste."
+      },
+      {
+        "Company Name": "Oracle",
+        "Company Technologies": "Oracle database technologies (RDBMS, PL/SQL, Java, .NET, HTML and XML)",
+        "Website": "oracle.com",
+        "Careers Link": "https://www.oracle.com/in/corporate/careers/",
+        "Description": "Oracle Corporation is an American multinational computer technology corporation. The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems."
+      },
+      {
+        "Company Name": "Percona",
+        "Company Technologies": "See: https://github.com/percona   https://www.percona.com/software",
+        "Website": "percona.com",
+        "Careers Link": "https://www.percona.com/about-percona/careers",
+        "Description": "Percona is an open source software company specializing in MySQL, MongoDB, and other open source database support, consulting, managed services, and training."
+      },
+      {
+        "Company Name": "Platform.sh",
+        "Company Technologies": "Python Go Lang Angular.js LXC/Zookeeper/Kafka/Riemann/Ceph/Influxdb",
+        "Website": "platform.sh",
+        "Careers Link": "https://platform.sh/company/careers/",
+        "Description": "platform.sh is a fully distributed startup creating a fully distributed Second  Generation Platform as a Service  . It is a spin-off of Commerce Guy   an Open Source company that created Drupal Commerce, an ecommerce solution used by more than 65 thousand merchants."
+      },
+      {
+        "Company Name": "Plex",
+        "Company Technologies": "An incredibly broad range, from C++ to Javascript, Ruby on Rails to React Native, MySQL to Mongo, and lots in-between.",
+        "Website": "plex.tv",
+        "Careers Link": "https://www.plex.tv/about/careers/#openings",
+        "Description": "Plex has a simple yet ambitious mission: to help people easily discover, enjoy, and share all of their media across all of their devices. We’ve made great progress towards this mission with millions of happy customers, but we still have a long way to go. If you think you are a good fit for our mission, we want to hear from you!"
+      },
+      {
+        "Company Name": "Prezly",
+        "Company Technologies": "Javascript React PHP/Symfony Bash AWS PostgreSQL Varnish/Apache/Nginx",
+        "Website": "prezly.com",
+        "Careers Link": "https://careers.prezly.com/",
+        "Description": "Prezly is a bootstrapped Software as a Service company founded in 2010. It offers a PR toolkit to corporate communication teams, both at Public Relations agencies and Inhouse teams at brands. PR teams use Prezly to learn about their stakeholders (media, bloggers and journalists) and to send them stories of their brands. This leads to better stakeholder relationships and more exposure. Brands using Prezly: Audi, Emirates Airlines, HP, IKEA, KBC, Samsung, Toyota, etc. Agencies using Prezly: Edelman, Grayling, Ketchum, Ogilvy, Porter Novelli, TBWA, Whyte, etc. More info on company about page"
+      },
+      {
+        "Company Name": "Rackspace",
+        "Company Technologies": "Varies on the engineering team and project, but usually Python, OpenStack, orchestration/deployment, virtualization, Linux/Windows, testing.",
+        "Website": "rackspace.com",
+        "Careers Link": "https://github.com/rackspace/rackspace_jobs",
+        "Description": "Rackspace is the number one managed cloud company for private, public and hybrid clouds, and founder of OpenStack, the open-source operating system for the cloud. We have delivered enterprise-level hosting services to businesses of all sizes and kinds around the world since 1998 and have grown to serve more than 205,000 customers. We operate on four continents, and have been featured on Sunday Times&apos 100 Best Companies to work for. We integrate the industry&aposs best technologies for each customer&aposs specific need. We deliver best-fit solutions by leveraging a portfolio of public cloud, private cloud, dedicated servers, container infrastructure, and a combination of platforms. Most importantly, it&aposs all backed by our award-winning Fanatical Support."
+      },
+      {
+        "Company Name": "Rainforest QA",
+        "Company Technologies": "Ruby On Rails React Elixir Python Go PostgreSQl Redis Linux virtualization Kubernetes on GCP We&aposll use whatever is the pragmatic choice for a solution CI/CD - merge to master and have your code running in production fully tested in under 20 minutes",
+        "Website": "rainforestqa.com/jobs",
+        "Careers Link": "https://jobs.lever.co/rainforest",
+        "Description": "Rainforest QA is an on-demand QA solution. It’s our mission to enable development teams to deliver bug-free software while moving at the speed of continuous delivery. We are truly a global team, allowing us to bring together the best and most diverse talent. Our commitment to the distributed team model and to our company values has earned us multiple culture and workplace awards and helped us build a diverse team of individuals working toward the same goal: change the way QA is done."
+      },
+      {
+        "Company Name": "Reaction Commerce",
+        "Company Technologies": "Front-end: JavaScript, React, Next.js, ESLint Back-end: GraphQL, MongoDB, Meteor Dev Ops: Docker, CircleCI Project tools: GitHub, ZenHub, Jira Design tools: Sketch, Zeplin Work tools: Slack, Zoom, Google Team Drive, Dashlane",
+        "Website": "reactioncommerce.com/careers",
+        "Careers Link": "https://reactioncommerce.com/careers/",
+        "Description": "Reaction Commerce   is the most popular open source, real-time platform that combines the flexibility developers and designers want with the stability and support businesses need. Find us on GitHub  , Gitter  , Twitter   and Instagram  ."
+      },
+      {
+        "Company Name": "RealtimeCRM",
+        "Company Technologies": "React, Meteor, NodeJS, MongoDB.",
+        "Website": "realtimecrm.co.uk",
+        "Careers Link": "Send an email to hello@realtimecrm.co.uk",
+        "Description": "RealtimeCRM is a simple to use CRM designed for small businesses and startups who have outgrown spreadsheets. We allow you to manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp. Plus you get support from the people who built it too."
+      },
+      {
+        "Company Name": "ReCharge",
+        "Company Technologies": "Javascript, CSS, MySQL, HTML, Python, Coffee, and Magic",
+        "Website": "rechargepayments.com",
+        "Careers Link": "https://boards.greenhouse.io/recharge",
+        "Description": "Our mission is to empower stores and store owners by making payments easy for everyone."
+      },
+      {
+        "Company Name": "Red Hat",
+        "Company Technologies": "Red Hat Enterprise Linux (RHEL)   Fedora   C, C++, Java, Python, Ruby, ... and many, many more",
+        "Website": "redhat.com",
+        "Careers Link": "https://www.redhat.com/en/jobs",
+        "Description": "Red Hat, Inc. is an American multinational software company providing open-source software products to the enterprise community. Red Hat creates, maintains, and contributes to many free software projects. It has acquired several proprietary software product codebases through corporate mergers and acquisitions and has released such software under open source licenses."
+      },
+      {
+        "Company Name": "rtCamp",
+        "Company Technologies": "HTML, CSS, and Javascript PHP WordPress NGINX",
+        "Website": "rtcamp.com",
+        "Careers Link": "https://careers.rtcamp.com/",
+        "Description": "rtCamp is a web solutions provider company, prominently working on open-source projects. The entrepreneurial spirit, employee friendly work-culture and passion to deliver the best results are the key factors of rtCamp’s growth. With dedication to offer excellent quality and a desire to serve the premier clients, rtCamp has carved a niche in WordPress ecosystem. Vision A vision of delivering the value proposition to customers has gradually evolved as a brand today. rtCamp’s key values of transparent business process and delivering rich customer experience is well reflected in its work across different domains."
+      },
+      {
+        "Company Name": "Salesforce",
+        "Company Technologies": "The technologies we focus on are Enterprise Cloud Computing and Customer Relationship Management.  User Interface: HTML, CSS, JavaScript, jQuery Database: SOQL, SOSL To write controllers/business logics: Java",
+        "Website": "salesforce.com",
+        "Careers Link": "https://salesforce.wd1.myworkdayjobs.com/External_Career_Site",
+        "Description": "In 1999, we pioneered cloud-based CRM software and have helped 150,000+ companies run their companies more effectively. Now, we&aposre creating an economy that will help millions of people find career satisfaction and enjoy better lives as well. We bring companies and customers together on the #1 CRM. Sharing the news, events and innovation you need to change the world for good."
+      },
+      {
+        "Company Name": "Sandhills Development",
+        "Company Technologies": "WordPress PHP Sass Git Javascript",
+        "Website": "sandhillsdev.com",
+        "Careers Link": "https://sandhillsdev.com/careers/",
+        "Description": "We&aposre the makers of a number of commercial WordPress plugins including:  Easy Digital Downloads   AffiliateWP   Restrict Content Pro   Sugar Calendar   WP Simple Pay"
+      },
+      {
+        "Company Name": "Scalac",
+        "Company Technologies": "ScalaLightbend Stack",
+        "Website": "scalac.io",
+        "Careers Link": "https://scalac.io/careers/",
+        "Description": "Best Scala hAkkersScalac is a software house ready to design & build your solution"
+      },
+      {
+        "Company Name": "Scandit",
+        "Company Technologies": "C++, Javascript, Python, Cross-platform frameworks like React Native, Flutter, Cordova, etc., Gitlab, Docker,",
+        "Website": "scandit.com",
+        "Careers Link": "https://www.scandit.com/careers/",
+        "Description": "Scandit&aposs technology is a unique machine learning platform combining leading-edge barcode scanning, text recognition (OCR), object recognition and augmented reality (AR) for use on any camera-equipped smart device, from smartphones to drones, wearables and robots. Scandit solutions take cost and time out of operations, and improve employee and customer satisfaction. Organizations across all industries use Scandit to power mobile apps. Many of the world’s most successful companies use Scandit as part of their digital transformation."
+      },
+      {
+        "Company Name": "Scopic Software",
+        "Company Technologies": "WEB FRAMEWORKS We turbocharge our development process with state of the art frameworks such as Yii, Django, Symfony, Spring, Java and Node.js. RESPONSIVE DESIGN At Scopic we believe it’s not about the size but what you do with it. With technologies like Bootstrap and LESS, there’s not a screen size we don’t love. NATIVE/CROSS-PLATFORM SDKS We’re not tied down by a single platform; we like to play the field. We use Xamarin, AdobeAIR, PhoneGAP and Qt to cater to different operating systems. OPENGL, DIRECT3D We are experts in standard 3D design. We utilize computer vision libraries such as OpenGL, OpenCV and DirectD3. SQL AND NOSQL DATABASES Scopic has a foot in both worlds. We use tried and true SQL when the fit is right, but aren’t afraid to delve into newer technologies like Hadoop, MongoDB, Dynamo and other applications for big data.",
+        "Website": "scopicsoftware.com",
+        "Careers Link": "https://scopicsoftware.com/careers/",
+        "Description": "We create custom solutions for virtually everything! Our passion is developing visually engaging and interactive solutions, custom made to enhance your business. Over a decade of service and 1000+ projects, developing digital products and user-centric software for a wide range of industries and niches including: Manufacturing, Music and film, Fintech, Food and Fitness, Healthcare and Gaming."
+      },
+      {
+        "Company Name": "Scrapinghub",
+        "Company Technologies": "Web crawling, Web scraping, Scraping, Scrapy, and Data Science",
+        "Website": "scrapinghub.com",
+        "Careers Link": "https://apply.workable.com/scrapinghub/",
+        "Description": "Scrapinghub provides the leading technology and consulting services to deliver successful web crawling and data processing solutions. Our technology includes:  • Open source libraries, such as Scrapy, developed mostly by our team  • A PaaS for running and managing web crawls  • A service that can automatically extract data based on examples  • A huge internal software library, including spiders for many websites, custom extractors, data post-processing, proxy management, etc. We have a strong reputation and deep domain expertise. Whatever data you need, and however you need it, we&aposre the best team to deliver it!"
+      },
+      {
+        "Company Name": "Shogun",
+        "Company Technologies": "Ruby / Rails, Go, JavaScript, React, Node",
+        "Website": "getshogun.com",
+        "Careers Link": "https://getshogun.com/careers",
+        "Description": "We make a drag and drop storefront builder and optimization tool for eCommerce websites. We are a tight knit distributed team of talented people who enjoy making delightful software experiences. We take pride in being bootstrapped to profitability, and we are backed by Y-Combinator and Initialized Capital."
+      },
+      {
+        "Company Name": "Shopify",
+        "Company Technologies": "Backend: Ruby on Rails Frontend: Javascript React Typescript Infrastructure: Docker Kubernetes Nginx Datastores: MySQL Redis Memcached",
+        "Website": "shopify.com",
+        "Careers Link": "https://www.shopify.com/careers",
+        "Description": "Shopify is a multi-channel commerce platform for small and medium businesses that lets you create a shop and sell products wherever you want: online via web store or social media and offline with a POS card reader. Shopify powers 600K merchants and serves 80K requests per second at peak."
+      },
+      {
+        "Company Name": "SignEasy",
+        "Company Technologies": "SQL Python ReactJS REST API AWS EC2, Elasticache, S3 Docker and Kubernetes",
+        "Website": "getsigneasy.com",
+        "Careers Link": "https://signeasy.com/jobs/",
+        "Description": "SignEasy is a cloud-based, mobile-first solution to electronically sign and fill documents from smartphones, tablets and web. People across industries such as real estate, legal, accounting, sales, insurance, human resources, logistics and more from over 180 countries use SignEasy to reduce business turnaround times, close deals faster, cut costs and delight customers by eliminating the cycle of printing, scanning and faxing of paperwork."
+      },
+      {
+        "Company Name": "Skyrocket Ventures",
+        "Company Technologies": "There is no information on what technologies are used.",
+        "Website": "skyrocketventures.com",
+        "Careers Link": "https://www.linkedin.com/jobs/view/jr-to-lead-backend-software-engineer-productivity-startup-at-skyrocket-ventures-1959922824/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "Description": "Skyrocket Ventures is a leading recruiting firm for high growth technology companies that range from industry leaders to top-tier startups. They aim to bring the best companies and candidates together.  Why Employers Work With Us Companies we work with consistently pull ahead of the competition. Even in the face of challenges such as aggressive competitors, a difficult economy, and industry volatility, companies we work with are much more likely than others to reach their goals, whether they be increasing shareholder value, market share, going public, or getting acquired. Why Candidates Work With Us Most recruiting firms only try to fill jobs, whereas Skyrocket Ventures also places candidates. There’s a subtle difference between the two. So if one of our recruiters is in touch with you, we will want to get to know you and understand both your short-term and long-term goals, so that we can accelerate your career advancement. More information here  ."
+      },
+      {
+        "Company Name": "SmugMug",
+        "Company Technologies": "AWS (since 2005, literally their first customer) PHP JavaScript Swift Java C# React AI (including ML & CV) GPU (including CUDA/GPGPU) Linux",
+        "Website": "smugmug.com",
+        "Careers Link": "https://jobs.smugmug.com/",
+        "Description": "We&aposre a family owned & operated, bootstrapped, private, Silicon Valley tech company. We&aposre likely the only one in the world. We love photography! We own and operate SmugMug   and Flickr  , both huge photo sharing platforms, which makes us the largest photographer-focused community in the world. We care for tens of billions of happy photos, millions of paying customers, and billions of photography-loving visitors. We started in 2002, so after more than 17 years, we&aposre here to stay. We hope you&aposll join us."
+      },
+      {
+        "Company Name": "Soshace",
+        "Company Technologies": "Javascript, React, Angular, Vue.js, Node, Python, Java",
+        "Website": "soshace.com",
+        "Careers Link": "https://soshace.com/jobs",
+        "Description": "Soshace is an online platform that joins IT professionals and companies. We provide verified Angular, React, Vue.js, Node.js, Python, Java developers to modern businesses which are ready to work with professionals all over the world. We generally work with startups and digital agencies from the US, Australia, the UK. Our developers absolutely love big and complex projects and do only those things they are capable to do."
+      },
+      {
+        "Company Name": "Stack Exchange",
+        "Company Technologies": "The tools and technologies used to build the Stack Exchange network are listed in a questions on meta.stackexchange.com",
+        "Website": "stackexchange.com",
+        "Careers Link": "https://stackoverflow.com/company/work-here",
+        "Description": "We help millions of people find expert answers and amazing jobs every day. Join us. We’re committed to making the internet a better place. Our products aim to enrich the lives of developers as they grow and mature in their careers."
+      },
+      {
+        "Company Name": "Stripe",
+        "Company Technologies": "Ruby, CoffeeScript, Backbone.js, Sinatra, PostgreSQL, hadoop, redis, AWS",
+        "Website": "stripe.com",
+        "Careers Link": "https://stripe.com/in/jobs",
+        "Description": "Stripe is the best way to accept payments online and in mobile apps. We handle billions of dollars every year for forward-thinking businesses around the world."
+      },
+      {
+        "Company Name": "SUSE",
+        "Company Technologies": "openSUSE Project, OpenStack, Ceph, OpenNFV, OpenHPC",
+        "Website": "suse.com",
+        "Careers Link": "https://jobs.suse.com/us/en",
+        "Description": "SUSE works with an ecosystem of partners and communities to deliver enterprise-grade, open source software-defined infrastructure and application delivery solutions backed by superior service and support."
+      },
+      {
+        "Company Name": "Sutherland CloudSource",
+        "Company Technologies": "Google Cloud, Analytics",
+        "Website": "sutherlandcloudsource.com",
+        "Careers Link": "https://jobs.sutherlandglobal.com/listjobs/All/?lang=en",
+        "Description": "As a digital transformation company, Sutherland rethinks and rebuilds processes for the digital age by combining the speed and insight of design thinking with the scale and accuracy of data analytics. Sutherland have been helping customers, across industries from financial services to healthcare, achieve greater agility through transformed and automated customer experiences."
+      },
+      {
+        "Company Name": "SweetRush",
+        "Company Technologies": "Game development, Mobile app development, Artificial Intelligence, Augmented Reality & Virtual Reality.",
+        "Website": "sweetrush.com",
+        "Careers Link": "https://www.sweetrush.com/join-us/",
+        "Description": "SweetRush is an e-learning company founded in 2001 providing virtual classroom and gamification solutions.  SweetRush specializes in end-to-end solutions for the design and development of custom blended learning initiatives. Their deliverables span from analysis and curriculum mapping to the creation of blended training products, including live and virtual classroom and the full gamut of custom-developed eLearning modalities."
+      },
+      {
+        "Company Name": "Telestax",
+        "Company Technologies": "Backend on Java stack, with a mix of Spring, Akka and J2EE across the various projects.  Frontend on Angular, Bootstrap, Node.js.",
+        "Website": "telestax.com",
+        "Careers Link": "https://www.telestax.com/careers/",
+        "Description": "We build Restcomm  , the biggest FOSS project for a Communications Platform acting as the middleware  enabling Programmable Voice and Messaging."
+      },
+      {
+        "Company Name": "toggl",
+        "Company Technologies": "Webpack, Babel, Emotion, Docker, Go, PostgreSQL",
+        "Website": "toggl.com",
+        "Careers Link": "https://toggl.com/jobs/",
+        "Description": "Toggl is a leading online time tracking tool, which is extremely popular among freelancers, consultants, and small companies. It allows users to track the time spent on various projects and analyze productivity. It’s internet-based and can be up and running from scratch in less than a minute. Toggl has real time sync with the web application, desktop apps, mobile apps and browser extensions for Chrome and Firefox."
+      },
+      {
+        "Company Name": "Toptal",
+        "Company Technologies": "RoR, JavaScript, CoffeeScript, Sass, Haml, Slim, Underscore.js, Backbone.js, React.js, Google Closure, Cucumber, Waiter, PhantomJS,",
+        "Website": "toptal.com",
+        "Careers Link": "https://www.toptal.com/careers",
+        "Description": "We created Toptal to solve an extremely difficult, real-world problem: the talent shortage. Toptal&aposs distinct working environment is one of novelty. We&aposve created a culture that prides itself on extreme innovation — continuously pushing the boundaries of what&aposs possible in both software and business. Toptal is a large and rapidly growing network comprised of the most thoroughly screened, talented freelance engineers and designers in the world. Hire Toptal freelancers to build advanced custom software and design projects and see how Toptal is different."
+      },
+      {
+        "Company Name": "Transloadit",
+        "Company Technologies": "JavaScript Node.js CoffeeScript Ubuntu AWS",
+        "Website": "transloadit.com",
+        "Careers Link": "https://transloadit.com/jobs/",
+        "Description": "Transloadit is a file uploading & encoding service. Launched by 3 developers who met through open source in 2009, customers have loved our clever API and top-notch support ever since. We&aposre the company that has been running Node.js in production the longest. As such we had to invent a few wheels. Wheels we shared with the world. Most notably: node-mysql, node-formidable, and node-retry. These are modules that are now industry standards for dealing with MySQL, file uploads, and networked/unreliable systems. We also contributed to Node.js itself a lot. Our latest open source project is &apostus&apos. tus is our most ambitious open source project yet: its goal is to change how the world does file uploading. tus is an open standard for resumable file uploads that has been started by Transloadit, and collaborated on by employees at Google, Yahoo, the director of engineering at Vimeo, an author of HTTP/1.1, and the creator of ZeroMQ. We&aposre writing implementations of this protocol for all popular languages, so that developers around the globe can have drop-in reliable uploads for their projects. Strongly rooted in the open source community, we try to give back in as many ways we can:  Open sourcing our juicy bits Talking on conferences and sponsoring them Giving away free tickets to conferences on Twitter every month Sharing our tech in articles Contributing back (cash & code) to the giants whose shoulders we&aposre standing on, such as ImageMagick, Node.js, and tus.io.  Working for Transloadit means no deadlines, no shortcuts, working on open source for 80% of the time, being flexible with your hours, and getting really excited about new tech we push out."
+      },
+      {
+        "Company Name": "Travis",
+        "Company Technologies": "Client-side: Vue.js / Html5 / JavaScript / TailwindCSS / GSAP Server-side: Node.js / TypeScript / GraphQL / Prisma / Jest / MySQL Infrastructure & Ops: Amazon AWS (100% Serverless) / AWS CDK / Github Actions On the roadmap: PixiJS / WebAssembly / Rust",
+        "Website": "travistravis.co",
+        "Careers Link": "https://www.travistravis.co/careers",
+        "Description": "Travis   is a platform for people around the world to create, share, discover and save authentic travel stories and local experiences. We make user-generated travel content actionable."
+      },
+      {
+        "Company Name": "Uhuru",
+        "Company Technologies": "MongoDB / PostgreSQL, React, Node.js / NextJS / Express.",
+        "Website": "uhurunetwork.com",
+        "Careers Link": "https://uhurunetwork.com/digital-marketing-careers/",
+        "Description": "Fundamentally, the core of Uhuru   is built upon overhauling the way an agency normally does business. We thrive because we’re never afraid to say there’s a better way."
+      },
+      {
+        "Company Name": "Vercel",
+        "Company Technologies": "React.js, Next.js.",
+        "Website": "vercel.com",
+        "Careers Link": "https://vercel.com/careers",
+        "Description": "Vercel combines the best developer experience with an obsessive focus on end-user performance. Our platform enables frontend teams to do their best work."
+      },
+      {
+        "Company Name": "Viperdev",
+        "Company Technologies": "PHP, Laravel, JavaScript.",
+        "Website": "viperdev.io",
+        "Careers Link": "https://viperdev.io/en/jobs/",
+        "Description": "We develop quality software by software engineers with vast experience in developing software for a variety of mobile platforms and browsers. We want you to be pleased with your purchase from us. We stand by our solutions with a 100% satisfaction guarantee. If our product does not meet the earlier agreed specification, then you do not pay."
+      },
+      {
+        "Company Name": "WebFX",
+        "Company Technologies": "HTML, CSS, JavaScript, WordPress, Magento, Joomla",
+        "Website": "webfx.com",
+        "Careers Link": "https://fxinternational.webfx.com/",
+        "Description": "WebFX is a digital marketing agency from Harrisburg, PA, but hires remote employees all over the world. We work with companies to help them grow by providing digital marketing services that drive real results."
+      },
+      {
+        "Company Name": "Wikimedia Foundation",
+        "Company Technologies": "PHP, Varnish, Nginx, Hadoop, R, Java, and Bayesian Analysis, MariaDB, MySQL, NoSQL, Puppet",
+        "Website": "wikimediafoundation.org",
+        "Careers Link": "https://wikimediafoundation.org/about/jobs/#Wikimedia_Careers",
+        "Description": "Work with the foundation that supports Wikipedia and its sister projects in more than 285 languages Some of our favorite reasons to work for the Wikimedia Foundation  Influence hundreds of millions of readers all over the globe Work with talented, mission-driven people Support the 5th-most visited web properties in the world Collaborate in an open, transparent environment Innovate solutions to problems that impact millions of people Do work that actually makes the world a better place Work in small teams on huge and important projects Interact with a global community with diverse cultures"
+      },
+      {
+        "Company Name": "Wizeline",
+        "Company Technologies": ".Net Android NodeJS PHP iOS Go ReactJS Python React Native Java Go",
+        "Website": "wizeline.com",
+        "Careers Link": "https://www.wizeline.com/careers/open-roles/",
+        "Description": "Wizeline   was founded in 2014 on the notion that access to data unlocks better decision making. Today, nearly 800 Wizeliners bring a data-driven, design-centric, and cloud-native approach to building exceptional products for our customers. We are the secret weapon of global enterprises and trusted ally of high-growth startups. Our teams have mastered remote collaboration and have built strong community ties around our office locations in the U.S., Mexico, Vietnam, Thailand, Australia, and Spain."
+      },
+      {
+        "Company Name": "X-Team",
+        "Company Technologies": "Taken from their fb   page: \"X-Teamers work with just about every at least semi-mainstream stack. Generally speaking, a majority of the projects we’re working on have React as the frontend, with the backend running on Node, or to a lesser degree Laravel or Symfony. Of course, there have also been projects with Vue, Angular, and even a rare Elm frontend. On the backend, Golang, Java, and Python also aren’t unheard of. Android and iOS are also in the mix, both natively and through cross-platform tech like Xamarin and React Native. And who could get anything done in 2018 without Docker and AWS?",
+        "Website": "x-team.com",
+        "Careers Link": "https://x-team.com/join/",
+        "Description": "Since 2006, X-Team has provided trusted, motivated developers to companies looking to scale their teams."
+      },
+      {
+        "Company Name": "Xapo",
+        "Company Technologies": "Python MongoDB Cassandra 2.0 Redis Bitbucket Android (Kotlin) iOS (Swift/Objective-C) Machine Learning frameworks ReactJS Redux Firebase MVVM Kafka Spark Redshift GraphQL Elm Javascript HTML CSS Docker Django PostgreSQL NodeJS AWS",
+        "Website": "xapo.com/en",
+        "Careers Link": "https://xapo.com/en/careers",
+        "Description": "At Xapo, we’re building a way for users all over the world to send, receive, spend, and store their money globally and safely. We&aposre firm believers that no matter who you are or where you&aposre from, you deserve easy access to digital financial services.  Launched in 2014 by Wences Casares (CEO) & Federico Murrone (COO), Xapo has made an unparalleled investment in security infrastructure, assembled a renowned advisory board, and raised $40M from top venture capital firms in Silicon Valley & the world. At Xapo, we embrace our differences and actively foster an inclusive environment where we all can thrive. We’re a flexible, family friendly environment, and we recognize that everyone has commitments outside of work. We welcome applications from all qualified candidates, including women and minorities. Diversity is not a tagline at Xapo; it is our foundation. Company website: https://xapo.com"
+      },
+      {
+        "Company Name": "Yodo1",
+        "Company Technologies": "Python, Java, Swift, Obj-C, Kubernetes, and many others depending on the team.",
+        "Website": "yodo1.com/en",
+        "Careers Link": "https://www.yodo1.com/en/careers/",
+        "Description": "Yodo1 is a gaming services company dedicated to one goal: giving talented developers the platform to turn their games into scalable businesses. We are helping thousands of studios around the world market, monetize, and manage their games to better serve a player base of 1.5 billion and growing. We&aposre always looking for new people as our team grows, and it&aposs growing fast!"
+      },
+      {
+        "Company Name": "Zapier",
+        "Company Technologies": "Backend: Python Django Celery Node.js Frontend: Javascript React Infrastructure: Amazon Web Services AWS Lambda nginx Gunicorn Ansible Packer Datastores: MySQL Redis Memcached ZooKeeper Queues: RabbitMQ Kafka",
+        "Website": "zapier.com",
+        "Careers Link": "https://zapier.com/jobs/",
+        "Description": "We&aposre a 100% distributed team living and working all over the world to help you automate the most tedious parts of your day to day job. We believe that there are jobs that a computer is best at doing and that there are jobs that a human is best at doing. We want to empower businesses everywhere to create processes and systems that let computers do what they are best at doing and let humans do what they are best at doing."
+      }
+    ]
+}
